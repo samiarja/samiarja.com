@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sami Arja"
 title_separator          : "-"
 name                     : &name "Sami Arja"
-description              : &description "Research Student at ICNS"
+description              : &description "MPhil Candidate at ICNS"
 url                      : https://samiarja.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samiarja.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sami Arja"
   avatar           : "profile.png"
-  bio              : "Research Student"
+  bio              : "MPhil Candidate at ICNS"
   location         : "Sydney, Australia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=fA7H4pMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "samiarja"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "samiarja1"
   vine             :
   weibo            :
   xing             :

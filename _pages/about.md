@@ -8,13 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am an MPhil Student at [ICNS](https://www.westernsydney.edu.au/icns), Western Sydney University, where I am mainly advised by [Gregory Cohen](http://greg-cohen.com/) and [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en). Previously I completed my bachelor’s degree in Robotics and Mechatronics Engineering with biomedical engineering submajor at Western Sydney University.
+I am an MPhil Student at [ICNS](https://www.westernsydney.edu.au/icns), Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/) and Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en). Previously I completed my bachelor’s degree in Robotics and Mechatronics Engineering with biomedical engineering submajor at Western Sydney University advised by Prof. [Gu Fang](https://www.westernsydney.edu.au/staff_profiles/WSU/professor_gu_fang).
 
-My current research is about event-based machine learning algorithms using event-based vision sensors as well as exploring the benefits of colour events with the CDAVIS sensor.
+My current research lies between (i) developing event-based machine learning algorithms for vision classification tasks, and (ii) exploring the benefits of colour events using the colour event-based sensor CDAVIS.
 
 # Research Interests
 
 # Education
+
+### Western Sydney University (2019-2021)
+
+Master of Philosophy in Neuromorphic Engineering
+
+### Western Sydney University (2016-2019)
+
+Bachelor of Engineering (Robotics and Mechantronics) (Honours Class II Division I)
+
+### Western Sydney University (2015-2016)
+
+Diploma in Engineering 
+
 
 # Publications
 

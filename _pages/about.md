@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sami Arja"
+title: "Biography"
 # excerpt: "About me"
 author_profile: true
 # redirect_from: 
@@ -12,25 +12,23 @@ I am an MPhil Student at [ICNS](https://www.westernsydney.edu.au/icns), Western 
 
 My current research lies between (i) developing event-based machine learning algorithms for vision classification tasks, and (ii) exploring the benefits of colour events using the colour event-based sensor CDAVIS.
 
-# Research Interests
+## Research Interests
+- Event-based sensors
+- Spiking neural networks
+- Representation Learning
+- Human Colour Vision
+- Machine Learning
 
-# Education
+## Education
 
-### Western Sydney University (2019-2021)
+🎓 **MPhil in Neuromorphic Engineering, 2021**
+Western Sydney University, Australia 
 
-Master of Philosophy in Neuromorphic Engineering
+🎓 **BEng in Robotics and Mechatronics, 2019**
+Western Sydney University, Australia
 
-Thesis: Neuromorphic Perception for Greenhouse Technology using Event-based Vision Sensors
-
-### Western Sydney University (2016-2019)
-
-Bachelor of Engineering (Robotics and Mechatronics) (Honours Class II Division I)
-
-Thesis: Human Activity Recognition using Deep Convolutional Neural Network and LSTM
-
-### Western Sydney University (2015-2016)
-
-Diploma in Engineering 
+🎓 **Diploma in Engineering, 2016**
+Western Sydney University, Australia
 
 
 <!-- # Publications -->

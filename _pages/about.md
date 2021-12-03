@@ -24,7 +24,7 @@ Thesis: Neuromorphic Perception for Greenhouse Technology using Event-based Visi
 
 ### Western Sydney University (2016-2019)
 
-Bachelor of Engineering (Robotics and Mechantronics) (Honours Class II Division I)
+Bachelor of Engineering (Robotics and Mechatronics) (Honours Class II Division I)
 
 Thesis: Human Activity Recognition using Deep Convolutional Neural Network and LSTM
 
@@ -33,7 +33,7 @@ Thesis: Human Activity Recognition using Deep Convolutional Neural Network and L
 Diploma in Engineering 
 
 
-# Publications
+<!-- # Publications -->
 
 
 

@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: "Sami Arja"
-excerpt: "About me"
+# excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+# redirect_from: 
+  # - /about/
+  # - /about.html
 ---
 
 I am an MPhil Student at [ICNS](https://www.westernsydney.edu.au/icns), Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/) and Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en). Previously I completed my bachelor’s degree in Robotics and Mechatronics Engineering with biomedical engineering submajor at Western Sydney University advised by Prof. [Gu Fang](https://www.westernsydney.edu.au/staff_profiles/WSU/professor_gu_fang).

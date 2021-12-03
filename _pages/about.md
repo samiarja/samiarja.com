@@ -10,7 +10,7 @@ author_profile: true
 
 I am an MPhil Student at [ICNS](https://www.westernsydney.edu.au/icns), Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/) and Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en). Previously I completed my bachelor’s degree in Robotics and Mechatronics Engineering with biomedical engineering submajor at Western Sydney University advised by Prof. [Gu Fang](https://www.westernsydney.edu.au/staff_profiles/WSU/professor_gu_fang).
 
-My current research lies between (i) developing event-based machine learning algorithms for vision classification tasks, and (ii) exploring the benefits of colour events using the colour event-based sensor CDAVIS.
+My current research lies between (i) developing event-based machine learning algorithms for vision classification tasks, and (ii) exploring the benefits of colour events using the colour event-based sensor.
 
 ## Research Interests
 - Event-based sensors
@@ -22,12 +22,15 @@ My current research lies between (i) developing event-based machine learning alg
 ## Education
 
 🎓 **MPhil in Neuromorphic Engineering, 2021**
+
 Western Sydney University, Australia 
 
 🎓 **BEng in Robotics and Mechatronics, 2019**
+
 Western Sydney University, Australia
 
 🎓 **Diploma in Engineering, 2016**
+
 Western Sydney University, Australia
 
 

@@ -21,16 +21,13 @@ My current research lies between (i) developing event-based machine learning alg
 
 ## Education
 
-#### Western Sydney University, Australia
+### Western Sydney University, Australia
 
 🎓 <span style="color:dgrey">MPhil in Neuromorphic Engineering, 2021</span>
 
 🎓 <span style="color:dgrey">BEng in Robotics and Mechatronics, 2019</span>
 
 🎓 <span style="color:dgrey">Diploma in Engineering, 2016</span>
-
-<!-- # Publications -->
-
 
 <p><font size="2"><font size="2"><font size="2">&nbsp;<br>
 	&nbsp; <a href="http://www.easycounter.com/"><img alt="HTML Counter" border="0" src="https://www.easycounter.com/counter.php?samiarja"></a> <i><font face="Arial" size="2">unique visitors since December 2021</font></i></font></font></font></p>

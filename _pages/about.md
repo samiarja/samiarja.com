@@ -8,7 +8,7 @@ author_profile: true
   # - /about.html
 ---
 
-I am a Research Student at [ICNS](https://www.westernsydney.edu.au/icns), Western Sydney University. I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/) and Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en). Recently I completed my Master of Philosophy from ICNS. Previously I completed my bachelor’s degree in Robotics and Mechatronics Engineering with biomedical engineering submajor at Western Sydney University advised by Prof. [Gu Fang](https://www.westernsydney.edu.au/staff_profiles/WSU/professor_gu_fang).
+I am a research student at [ICNS](https://www.westernsydney.edu.au/icns), Western Sydney University. I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/) and Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en). Recently I completed my Master of Philosophy from ICNS. Previously I completed my bachelor’s degree in Robotics and Mechatronics Engineering (minor in Biomedical) under the supervision of Prof. [Gu Fang](https://www.westernsydney.edu.au/staff_profiles/WSU/professor_gu_fang).
 
 My current research lies between (i) developing event-based machine learning algorithms for per-pixel classification and segmentation, and (ii) exploring and investigating the use of colour events data using the CDAVIS346 sensor.
 

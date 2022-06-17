@@ -22,6 +22,8 @@ My current research lies between (i) developing event-based machine learning alg
 
 ### Western Sydney University, Australia
 
+<span style="color:dgrey">PhD in Neuromorphic Engineering, 2025</span>
+
 🎓 <span style="color:dgrey">MPhil in Neuromorphic Engineering, 2021</span>
 
 🎓 <span style="color:dgrey">BEng in Robotics and Mechatronics, 2019</span>

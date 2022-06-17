@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHubs, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctor of Philosophy in Neuromorphic Engineering, Western Sydney University, Expected
+* Master of Philosophy in Neuromorphic Engineering, Western Sydney University, 2021
+* Bachelor of Engineering in Robotics and Mechatronics, Western Sydney University, 2019
+* Diploma in Engineering, Western Sydney University, 2016
 
 Work experience
 ======

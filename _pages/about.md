@@ -8,15 +8,14 @@ author_profile: true
   # - /about.html
 ---
 
-I am a research student at [ICNS](https://www.westernsydney.edu.au/icns), Western Sydney University. I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/) and Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en). Recently I completed my Master of Philosophy from ICNS. Previously I completed my bachelor’s degree in Robotics and Mechatronics Engineering (minor in Biomedical) under the supervision of Prof. [Gu Fang](https://www.westernsydney.edu.au/staff_profiles/WSU/professor_gu_fang).
+I am a PhD student and Casual Academic in the International Centre for Neuromorphic Systems ([ICNS](https://www.westernsydney.edu.au/icns)) at Western Sydney University, Australia, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en).
 
-My current research lies between (i) developing event-based machine learning algorithms for per-pixel classification and segmentation, and (ii) exploring and investigating the use of colour events data using the CDAVIS346 sensor.
+I completed my Master of Philosophy in Neuromorphic Engineering and my Bachelor of Engineering (Robotics and Mechatronics) from Western Sydney University.
 
-## Research Interests
-- Spiking neural networks
-- Representation Learning
-- Event-based processing
-- Human Colour Vision
+The focus of my PhD research is about developing algorithms and systems to enable robust and efficient mapping and localisation using neuromorphic event-based cameras for space situational awareness applications.
+
+Previously I worked on developing machine learning algorithms for event-based classification and segmentation. I also spend sometime exploring and investigating the use of colour events data in real applications.
+
 
 ## Education
 

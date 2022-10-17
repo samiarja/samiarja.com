@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Sami Arja"
 # excerpt: "About me"
 author_profile: true
 # redirect_from: 
@@ -8,13 +8,7 @@ author_profile: true
   # - /about.html
 ---
 
-I am a PhD student and Casual Academic in the International Centre for Neuromorphic Systems ([ICNS](https://www.westernsydney.edu.au/icns)) at Western Sydney University, Australia, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en).
-
-I completed my Master of Philosophy in Neuromorphic Engineering and my Bachelor of Engineering (Robotics and Mechatronics) from Western Sydney University.
-
-The focus of my PhD research is about developing algorithms and systems to enable robust and efficient mapping and localisation using neuromorphic event-based cameras for space situational awareness applications.
-
-Previously I worked on developing machine learning algorithms for event-based classification and segmentation. I also spend sometime exploring and investigating the use of colour events data in real applications.
+I am a PhD student and Casual Academic in the International Centre for Neuromorphic Systems ([ICNS](https://www.westernsydney.edu.au/icns)) at Western Sydney University, Australia, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en). My PhD focuses on developing algorithms and systems to enable robust and efficient mapping and localisation using neuromorphic event-based cameras for space situational awareness applications. During my MPhil I worked on developing machine learning algorithms for event-based classification and segmentation. I also spend sometime exploring colour events data in real applications with the CDAVIS336.
 
 
 ## Education

@@ -13,7 +13,7 @@ Education
 ======
 * Doctor of Philosophy in Neuromorphic Engineering, Western Sydney University, Expected
 * Master of Philosophy in Neuromorphic Engineering, Western Sydney University, 2021
-* Bachelor of Engineering in Robotics and Mechatronics, Western Sydney University, 2019
+* Bachelor of Engineering in Robotics and Mechatronics (Honours), Western Sydney University, 2019
 * Diploma in Engineering, Western Sydney University, 2016
 
 Work experience

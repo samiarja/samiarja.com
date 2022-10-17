@@ -16,7 +16,7 @@ Education
 * Bachelor of Engineering in Robotics and Mechatronics (Honours), Western Sydney University, 2019
 * Diploma in Engineering, Western Sydney University, 2016
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -57,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

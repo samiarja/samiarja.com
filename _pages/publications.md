@@ -9,7 +9,7 @@ author_profile: true
 
 Sensors Journal, 2019
 
-S El Arja, T Jayarathna, G Naik, P Breen, G Gargiulo
+**Sami El Arja**, Titus Jayarathna, Ganish Naik, Paul Breen, Gaetano Gargiulo
 
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="citation-338120677.bib">
   Cite

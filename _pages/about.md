@@ -16,17 +16,21 @@ I also teach Robotics and Mobile Robotics at the School of Engineering at Wester
 ## Education
 
 <span style="color:dgrey"> PhD in Neuromorphic Engineering, Present</span>
+
 <sup>International Centre for Neuromorphic Systems</sup>
 
 🎓 <span style="color:dgrey">MPhil in Neuromorphic Engineering, 2021</span>
+
 <sup>International Centre for Neuromorphic Systems</sup>
 
 
 🎓 <span style="color:dgrey">BEng in Robotics and Mechatronics, 2019</span>
+
 <sup>Western Sydney University</sup>
 
 
 🎓 <span style="color:dgrey">Diploma in Engineering, 2016</span>
+
 <sup>Western Sydney University</sup>
 
 

@@ -10,12 +10,12 @@ author_profile: true
 
 I am a PhD student at the [International Centre for Neuromorphic Systems, (ICNS)](https://www.westernsydney.edu.au/icns) at Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en). Currently, I am working on my PhD degree focusing on Space Situational Awareness and Neuromorphic Earth Observations using event cameras.
 
-I also teach Robotics and Mobile Robotics at the School of Engineer at Western Sydney University.
+I also teach Robotics and Mobile Robotics at the School of Engineering at Western Sydney University.
 
 
 ## Education
 
-<span style="color:dgrey"><img src="loading.png" width=3% height=10%> PhD in Neuromorphic Engineering, Present</span>
+<span style="color:dgrey"> PhD in Neuromorphic Engineering, Present</span>
 <sup>International Centre for Neuromorphic Systems</sup>
 
 🎓 <span style="color:dgrey">MPhil in Neuromorphic Engineering, 2021</span>

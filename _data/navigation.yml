@@ -1,14 +1,14 @@
 # main links links
 main:
 
-  - title: "About me"
-    url: /About me/  
+  # - title: "About me"
+  #   url: /About me/  
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/  
+  # - title: "Talks"
+  #   url: /talks/  
 
   - title: "CV"
     url: /cv/  

@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-WaggleNet: Learn to Track and Follow Bees Figure-eight Motion
+<!-- WaggleNet: Learn to Track and Follow Bees Figure-eight Motion
 
 
 Neuromorphic Colour Event Camera: A Detailed Characterisation
@@ -30,4 +30,4 @@ Characterisation of morphic sensors for body volume and shape applications
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->

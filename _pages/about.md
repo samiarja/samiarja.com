@@ -8,20 +8,27 @@ author_profile: true
   # - /about.html
 ---
 
-I am a PhD student and Casual Academic in the International Centre for Neuromorphic Systems ([ICNS](https://www.westernsydney.edu.au/icns)) at Western Sydney University, Australia, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en). My PhD focuses on developing algorithms and systems to enable robust and efficient mapping and localisation using neuromorphic event-based cameras for space situational awareness applications. During my MPhil I worked on developing machine learning algorithms for event-based classification and segmentation. I also spend sometime exploring colour events data in real applications with the CDAVIS336.
+I am a PhD student at the [International Centre for Neuromorphic Systems, (ICNS)](https://www.westernsydney.edu.au/icns) at Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en). Currently, I am working on my PhD degree focusing on Space Situational Awareness and Neuromorphic Earth Observations using event cameras.
+
+I also teach Robotics and Mobile Robotics at the School of Engineer at Western Sydney University.
 
 
 ## Education
 
-### Western Sydney University, Australia
-
-<span style="color:dgrey">PhD in Neuromorphic Engineering, 2025</span>
+<span style="color:dgrey"><img src="loading.png" width=3% height=10%> PhD in Neuromorphic Engineering, Present</span>
+<sup>International Centre for Neuromorphic Systems</sup>
 
 🎓 <span style="color:dgrey">MPhil in Neuromorphic Engineering, 2021</span>
+<sup>International Centre for Neuromorphic Systems</sup>
+
 
 🎓 <span style="color:dgrey">BEng in Robotics and Mechatronics, 2019</span>
+<sup>Western Sydney University</sup>
+
 
 🎓 <span style="color:dgrey">Diploma in Engineering, 2016</span>
+<sup>Western Sydney University</sup>
+
 
 <p><font size="2"><font size="2"><font size="2">&nbsp;<br>
 	&nbsp; <a href="http://www.easycounter.com/"><img alt="HTML Counter" border="0" src="https://www.easycounter.com/counter.php?samiarja"></a> <i><font face="Arial" size="2">unique visitors since December 2021</font></i></font></font></font></p>

@@ -57,6 +57,7 @@ Sensors Journal, 2019
   <button class="button" onclick="copyToClipboard('Text to be copied')">Cite</button>
   <button class="button" onclick="copyToClipboard('Text to be copied')">DOI</button>
   <button class="button"><a href="https://example.com">PDF</a></button>
+  <button class="button"><a href="https://example.com">Code</a></button>
 </div>
 
 
@@ -101,6 +102,7 @@ Sensors Journal, 2019
   <button class="button"><a href="https://doi.org/10.3390/s20010090">Cite</a></button>
   <button class="button"><a href="https://doi.org/10.3390/s20010090">DOI</a></button>
   <button class="button"><a href="https://pdfs.semanticscholar.org/5b6f/de4216f65d88bff0b6bbce2c31b687d410a1.pdf?_gl=1*18egdil*_ga*NjkwMDkyNDczLjE2ODIyNTY1Nzk.*_ga_H7P4ZT52H5*MTY4MjYxMjAxOC40LjAuMTY4MjYxMjAxOC4wLjAuMA">PDF</a></button>
+  <button class="button"><a href="https://example.com">Code</a></button>
 </div>
 
 <hr style="border:1px solid gray">
@@ -141,6 +143,7 @@ Sensors Journal, 2019
   <button class="button"><a href="https://doi.org/10.3390/s20010090">Cite</a></button>
   <button class="button"><a href="https://doi.org/10.3390/s20010090">DOI</a></button>
   <button class="button"><a href="https://pdfs.semanticscholar.org/5b6f/de4216f65d88bff0b6bbce2c31b687d410a1.pdf?_gl=1*18egdil*_ga*NjkwMDkyNDczLjE2ODIyNTY1Nzk.*_ga_H7P4ZT52H5*MTY4MjYxMjAxOC40LjAuMTY4MjYxMjAxOC4wLjAuMA">PDF</a></button>
+  <button class="button"><a href="https://example.com">Code</a></button>
 </div>
 
 <hr style="border:1px solid gray">
@@ -181,6 +184,7 @@ Sensors Journal, 2019
   <button class="button"><a href="https://doi.org/10.3390/s20010090">Cite</a></button>
   <button class="button"><a href="https://doi.org/10.3390/s20010090">DOI</a></button>
   <button class="button"><a href="https://pdfs.semanticscholar.org/5b6f/de4216f65d88bff0b6bbce2c31b687d410a1.pdf?_gl=1*18egdil*_ga*NjkwMDkyNDczLjE2ODIyNTY1Nzk.*_ga_H7P4ZT52H5*MTY4MjYxMjAxOC40LjAuMTY4MjYxMjAxOC4wLjAuMA">PDF</a></button>
+  <button class="button"><a href="https://example.com">Code</a></button>
 </div>
 
 <hr style="border:1px solid gray">
@@ -221,4 +225,5 @@ Sensors Journal, 2019
   <button class="button"><a href="https://doi.org/10.3390/s20010090">Cite</a></button>
   <button class="button"><a href="https://doi.org/10.3390/s20010090">DOI</a></button>
   <button class="button"><a href="https://pdfs.semanticscholar.org/5b6f/de4216f65d88bff0b6bbce2c31b687d410a1.pdf?_gl=1*18egdil*_ga*NjkwMDkyNDczLjE2ODIyNTY1Nzk.*_ga_H7P4ZT52H5*MTY4MjYxMjAxOC40LjAuMTY4MjYxMjAxOC4wLjAuMA">PDF</a></button>
+  <button class="button"><a href="https://example.com">Code</a></button>
 </div>

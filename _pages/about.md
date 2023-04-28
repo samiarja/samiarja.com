@@ -10,10 +10,68 @@ author_profile: true
 
 I am a PhD student at the [International Centre for Neuromorphic Systems, (ICNS)](https://www.westernsydney.edu.au/icns) at Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en). Currently, I am working on my PhD degree focusing on Space Situational Awareness and Neuromorphic Earth Observations using event cameras.
 
-I also teach Robotics and Mobile Robotics at the School of Engineering at Western Sydney University.
+I teach Robotics and Mobile Robotics at the School of Engineering at Western Sydney University.
 
 
-## Education
+
+<style>
+  .education {
+    margin-bottom: 30px;
+  }
+
+  .education h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+  }
+
+  .education ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .education li {
+    margin-bottom: 10px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+  }
+
+  .education li sup {
+    margin-left: 10px;
+    font-size: 14px;
+    color: #666;
+  }
+
+  .education li .fa-graduation-cap {
+    margin-right: 10px;
+    font-size: 18px;
+    color: #333;
+  }
+
+  .education li .fa-spinner {
+    margin-right: 10px;
+    font-size: 18px;
+    color: #333;
+    animation: spin 2s linear infinite;
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
+
+<div class="education">
+  <h2>Education</h2>
+  <ul>
+    <li><i class="fas fa-spinner"></i> PhD in Neuromorphic Engineering, Present <sup>International Centre for Neuromorphic Systems</sup></li>
+    <li><i class="fas fa-graduation-cap"></i> MPhil in Neuromorphic Engineering, 2021 <sup>International Centre for Neuromorphic Systems</sup></li>
+    <li><i class="fas fa-graduation-cap"></i> BEng in Robotics and Mechatronics, 2019 <sup>Western Sydney University</sup></li>
+   </ul>
+</div> 
+
+<!-- ## Education
 
 <span style="color:dgrey"> PhD in Neuromorphic Engineering, Present</span>
 
@@ -31,7 +89,7 @@ I also teach Robotics and Mobile Robotics at the School of Engineering at Wester
 
 🎓 <span style="color:dgrey">Diploma in Engineering, 2016</span>
 
-<sup>Western Sydney University</sup>
+<sup>Western Sydney University</sup> -->
 
 
 <p><font size="2"><font size="2"><font size="2">&nbsp;<br>

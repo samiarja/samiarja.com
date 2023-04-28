@@ -320,7 +320,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
 
 
 <div style="display: flex; align-items: center;">
-  <h1 style="font-size: 28px;">Characterisation of morphic sensors for body volume and shape applications</h1>
+  <h1 style="font-size: 28px;">Characterization of morphic sensors for body volume and shape applications</h1>
   <!-- <img src="/images/paper1.png" style="width: 300px; height: 300px; margin-left: 20px;"> -->
 </div>
 

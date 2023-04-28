@@ -52,11 +52,11 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
 </style>
 
 <script>
-  function copyDOI() {
+  function copyDOI5() {
     var doiLink = "arXiv:2304.14125";
     copyToClipboard(doiLink);
   }
-  function copyCitation() {
+  function copyCitation5() {
     fetch('dcmax.bib')
       .then(response => response.text())
       .then(text => {
@@ -76,8 +76,8 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
 </script>
 
 <div class="button-container">
-  <button class="button" onclick="copyCitation()" style="color: black; font-size: 20px;">Cite</button>
-  <button class="button" onclick="copyDOI()" style="color: black; font-size: 20px;">DOI</button>
+  <button class="button" onclick="copyCitation5()" style="color: black; font-size: 20px;">Cite</button>
+  <button class="button" onclick="copyDOI5()" style="color: black; font-size: 20px;">DOI</button>
   <button class="button"><a href="https://arxiv.org/pdf/2304.14125.pdf" style="color: black; font-size: 20px;">PDF</a></button>
   <button class="button"><a href="https://github.com/neuromorphicsystems/event_warping/tree/iss">Code</a></button>
 </div>
@@ -128,11 +128,11 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
 </style>
 
 <script>
-  function copyDOI() {
+  function copyDOI4() {
     var doiLink = "https://doi.org/10.3389/fnins.2022.813555";
     copyToClipboard(doiLink);
   }
-  function copyCitation() {
+  function copyCitation4() {
     fetch('benchamrk.bib')
       .then(response => response.text())
       .then(text => {
@@ -152,8 +152,8 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
 </script>
 
 <div class="button-container">
-  <button class="button" onclick="copyCitation()" style="color: black; font-size: 20px;">Cite</button>
-  <button class="button" onclick="copyDOI()" style="color: black; font-size: 20px;">DOI</button>
+  <button class="button" onclick="copyCitation4()" style="color: black; font-size: 20px;">Cite</button>
+  <button class="button" onclick="copyDOI4()" style="color: black; font-size: 20px;">DOI</button>
   <button class="button"><a href="https://researchdirect.westernsydney.edu.au/islandora/object/uws:69020/datastream/PDF/view" style="color: black; font-size: 20px;">PDF</a></button>
   <!-- <button class="button"><a href="https://example.com">Code</a></button> -->
 </div>
@@ -206,11 +206,11 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
 </style>
 
 <script>
-  function copyDOI() {
+  function copyDOI3() {
     var doiLink = "http://hdl.handle.net/1959.7/uws:67799";
     copyToClipboard(doiLink);
   }
-  function copyCitation() {
+  function copyCitation3() {
     fetch('mphilthesis.bib')
       .then(response => response.text())
       .then(text => {
@@ -230,8 +230,8 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
 </script>
 
 <div class="button-container">
-  <button class="button" onclick="copyCitation()" style="color: black; font-size: 20px;">Cite</button>
-  <button class="button" onclick="copyDOI()" style="color: black; font-size: 20px;">DOI</button>
+  <button class="button" onclick="copyCitation3()" style="color: black; font-size: 20px;">Cite</button>
+  <button class="button" onclick="copyDOI3()" style="color: black; font-size: 20px;">DOI</button>
   <button class="button"><a href="https://researchdirect.westernsydney.edu.au/islandora/object/uws:67799/datastream/PDF/view" style="color: black; font-size: 20px;">PDF</a></button>
   <!-- <button class="button"><a href="https://example.com">Code</a></button> -->
 </div>
@@ -285,11 +285,11 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
 </style>
 
 <script>
-  function copyDOI() {
+  function copyDOI2() {
     var doiLink = "10.1109/ICEERP49088.2019.8956989";
     copyToClipboard(doiLink);
   }
-  function copyCitation() {
+  function copyCitation2() {
     fetch('characterisation_fabric_band_ICREEP.bib')
       .then(response => response.text())
       .then(text => {
@@ -309,8 +309,8 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
 </script>
 
 <div class="button-container">
-  <button class="button" onclick="copyCitation()" style="color: black; font-size: 20px;">Cite</button>
-  <button class="button" onclick="copyDOI()" style="color: black; font-size: 20px;">DOI</button>
+  <button class="button" onclick="copyCitation2()" style="color: black; font-size: 20px;">Cite</button>
+  <button class="button" onclick="copyDOI2()" style="color: black; font-size: 20px;">DOI</button>
   <button class="button"><a href="https://www.researchgate.net/profile/Titus-Nanda-Kumara/publication/338599389_Characterization_of_Coated_Piezo-resistive_Fabric_for_Respiration_Sensing/links/5e7aef2ea6fdcc57b7bbb8a9/Characterization-of-Coated-Piezo-resistive-Fabric-for-Respiration-Sensing.pdf" style="color: black; font-size: 20px;">PDF</a></button>
   <!-- <button class="button"><a href="https://example.com">Code</a></button> -->
 </div>
@@ -363,11 +363,11 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
 </style>
 
 <script>
-  function copyDOI() {
+  function copyDOI1() {
     var doiLink = "https://doi.org/10.3390/s20010090";
     copyToClipboard(doiLink);
   }
-  function copyCitation() {
+  function copyCitation1() {
     fetch('characterisation_fabric_band.bib')
       .then(response => response.text())
       .then(text => {
@@ -387,8 +387,8 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
 </script>
 
 <div class="button-container">
-  <button class="button" onclick="copyCitation()" style="color: black; font-size: 20px;">Cite</button>
-  <button class="button" onclick="copyDOI()" style="color: black; font-size: 20px;">DOI</button>
+  <button class="button" onclick="copyCitation1()" style="color: black; font-size: 20px;">Cite</button>
+  <button class="button" onclick="copyDOI1()" style="color: black; font-size: 20px;">DOI</button>
   <button class="button"><a href="https://pdfs.semanticscholar.org/5b6f/de4216f65d88bff0b6bbce2c31b687d410a1.pdf?_gl=1*11wka38*_ga*NjkwMDkyNDczLjE2ODIyNTY1Nzk.*_ga_H7P4ZT52H5*MTY4MjY1MTMwMC41LjAuMTY4MjY1MTY1OS4wLjAuMA" style="color: black; font-size: 20px;">PDF</a></button>
   <!-- <button class="button"><a href="https://example.com">Code</a></button> -->
 </div>

@@ -57,7 +57,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
     copyToClipboard(doiLink);
   }
   function copyCitation() {
-    fetch('benchamrk.bib')
+    fetch('dcmax.bib')
       .then(response => response.text())
       .then(text => {
         copyToClipboard(text);

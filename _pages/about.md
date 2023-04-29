@@ -8,9 +8,14 @@ author_profile: true
   # - /about.html
 ---
 
-I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICNS)](https://www.westernsydney.edu.au/icns) at Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en). Currently, I am working on my PhD degree focusing on Space Situational Awareness and Neuromorphic Earth Observations using event cameras.
+<!-- I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICNS)](https://www.westernsydney.edu.au/icns) at Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en). Currently, I am working on my PhD degree focusing on Space Situational Awareness and Neuromorphic Earth Observations using event cameras.
 
-I teach Robotics and Mobile Robotics at the School of Engineering at Western Sydney University.
+I teach Robotics and Mobile Robotics at the School of Engineering at Western Sydney University. -->
+
+<div class="container">
+  <p>I am a PhD candidate at the <a href="https://www.westernsydney.edu.au/icns">International Centre for Neuromorphic Systems, (ICNS)</a> at Western Sydney University, where I am mainly advised by A/Prof. <a href="http://greg-cohen.com/">Gregory Cohen</a>, Dr. <a href="https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en">Saeed Afshar</a> and Dr. <a href="https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en">Alexander Marcireau</a>. Currently, I am working on my PhD degree focusing on Space Situational Awareness and Neuromorphic Earth Observations using event cameras.</p>
+  <p>I teach Robotics and Mobile Robotics at the School of Engineering at Western Sydney University.</p>
+</div>
 
 
 
@@ -25,7 +30,7 @@ I teach Robotics and Mobile Robotics at the School of Engineering at Western Syd
     margin: 0 auto;
     padding: 30px;
     background-color: #fff;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
   }
 
   .header {
@@ -121,14 +126,14 @@ I teach Robotics and Mobile Robotics at the School of Engineering at Western Syd
 
 <div class="container">
   <div class="education">
-    <h2>Education</h2>
+    <h1>Education</h1>
     <ul>
-      <li><i class="fas fa-spinner"></i> PhD in Neuromorphic Engineering, Present <sup>International Centre for Neuromorphic Systems</sup></li>
-      <li><i class="fas fa-graduation-cap"></i> MPhil in Neuromorphic Engineering, 2021 <sup>International Centre for Neuromorphic Systems</sup></li>
-      <li><i class="fas fa-graduation-cap"></i> BEng in Robotics and Mechatronics, 2019 <sup>Western Sydney University</sup></li>
+      <li><i class="fas fa-spinner"></i> PhD in Neuromorphic Engineering, Present <sup>ICNS</sup></li>
+      <li><i class="fas fa-graduation-cap"></i> MPhil in Neuromorphic Engineering, 2021 <sup>ICNS</sup></li>
+      <li><i class="fas fa-graduation-cap"></i> BEng in Robotics and Mechatronics, 2019 <sup>WSU</sup></li>
     </ul>
   </div>
-
+</div>
 
 <p>
   <font size="2">

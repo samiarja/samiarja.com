@@ -120,6 +120,43 @@ redirect_from:
   opacity: 0.5;
   transition: opacity 0.3s ease-in-out;
 }
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.cube {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  transform-style: preserve-3d;
+  animation: spin 3s infinite linear;
+}
+
+.cube div {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  line-height: 200px;
+}
+
+.front {
+  background-color: red;
+  transform: translateZ(100px);
+}
+
+.back {
+  background-color: blue;
+  transform: rotateY(180deg) translateZ(100px);
+}
+
+.top {
+  background-color: yellow;
+  transform: rotateX(90deg) translateZ(100px);
+
 </style>
 
 
@@ -169,6 +206,19 @@ redirect_from:
   <img src="/images/java-PhotoRoom.png-PhotoRoom.png" alt="Company Logo" width="60" style="display: inline-block;">
 </div> -->
 
+
+##### Other skills
+<div class="container">
+  <div class="cube">
+    <div class="front" >Front</div>
+    <div class="back">Back</div>
+    <div class="top">Top</div>
+    <div class="bottom">Bottom</div>
+    <div class="left">Left</div>
+    <div class="right">Right</div>
+  </div>
+  <a href="[#](https://sketchfab.com/samiarja)">Sketchfab</a>
+</div>
 
 
 <style>

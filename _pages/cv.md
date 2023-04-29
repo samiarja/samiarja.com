@@ -125,38 +125,6 @@ redirect_from:
   align-items: center;
 }
 
-.cube {
-  width: 50px;
-  height: 50px;
-  position: relative;
-  transform-style: preserve-3d;
-  animation: spin 3s infinite linear;
-}
-
-.cube div {
-  position: absolute;
-  width: 50px;
-  height: 50px;
-  color: white;
-  font-size: 30px;
-  text-align: center;
-  line-height: 200px;
-}
-
-.front {
-  background-color: red;
-  transform: translateZ(100px);
-}
-
-.back {
-  background-color: blue;
-  transform: rotateY(180deg) translateZ(100px);
-}
-
-.top {
-  background-color: yellow;
-  transform: rotateX(90deg) translateZ(100px);
-
 </style>
 
 
@@ -182,7 +150,7 @@ redirect_from:
     <img src="/images/htmlcss-PhotoRoom.png" alt="CSS3 Logo" width="40">
     <img src="/images/HTML5-PhotoRoom.png-PhotoRoom.png" alt="CSS3 Logo" width="30">
     <img src="/images/cpp.png" alt="C++ Logo" width="25">
-    <img src="/images/vb.png" alt="Visual Basic Logo" width="28">
+    <img src="/images/vb2.png" alt="Visual Basic Logo" width="50">
     <img src="/images/Sql_data_base_with_logo.png" alt="SQL Logo" width="58">
   </p>
 
@@ -191,32 +159,10 @@ redirect_from:
     <img src="/images/java-PhotoRoom.png-PhotoRoom.png" alt="Java Logo" width="50">
   </p>
 </div>
-<!-- <div class="logo-container">
-  <p>Superior:   <img src="/images/pyth.png" alt="Company Logo" width="20">
-  <img src="/images/Matlab_Logo.png" alt="Company Logo" width="25">
-
-  <p>Proficient:  <img src="/images/JavaScript-logo.png" alt="Company Logo" width="25">
-  <img src="/images/css3.png" alt="Company Logo" width="30">
-  <img src="/images/cpp.png" alt="Company Logo" width="25">
-  <img src="/images/Sql_data_base_with_logo.png" alt="Company Logo" width="58">
-  <img src="/images/vb2.png" alt="Company Logo" width="28">
 
 
-  <p>Beginner:  <img src="/images/flutter.png" alt="Company Logo" width="70" style="display: inline-block;">
-  <img src="/images/java-PhotoRoom.png-PhotoRoom.png" alt="Company Logo" width="60" style="display: inline-block;">
-</div> -->
-
-
-##### Other skills
+##### Other skills: 3D modelling
 <div class="container">
-  <div class="cube">
-    <div class="front" >Front</div>
-    <div class="back">Back</div>
-    <div class="top">Top</div>
-    <div class="bottom">Bottom</div>
-    <div class="left">Left</div>
-    <div class="right">Right</div>
-  </div>
   <a href="[#](https://sketchfab.com/samiarja)">Sketchfab</a>
 </div>
 

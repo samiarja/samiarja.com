@@ -128,14 +128,6 @@ redirect_from:
 </style>
 
 
-
-<!-- <div class="rSection">EXPERIENCE</div>
-
-
- 📚 [StackOverFlow](https://stackoverflow.com/users/7705849/sami-arja?tab=profile) &nbsp;&nbsp; 🎨 [Sketchab](https://sketchfab.com/samiarja/models) 
-
- -->
-
 <div class="rSection">SKILLS AND INTERESTS</div>
 
 <div class="logo-container">
@@ -163,7 +155,7 @@ redirect_from:
 
 ##### Other skills: 3D modelling
 <div class="container">
-  <a href="[#](https://sketchfab.com/samiarja)">Sketchfab</a>
+  <a href="https://sketchfab.com/samiarja">Sketchfab</a>
 </div>
 
 

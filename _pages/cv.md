@@ -111,7 +111,7 @@ redirect_from:
   margin-bottom: 5px;
 }
 .logo-container img:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
   transition: transform 0.2s ease-in-out;
   cursor: pointer;
 }
@@ -135,13 +135,13 @@ redirect_from:
 
 <div class="logo-container">
   <p>Superior:   
-    <img src="/images/pyth.png" alt="Python Logo" width="30">
-    <img src="/images/Matlab_Logo.png" alt="MATLAB Logo" width="35">
-    <img src="/images/cs.png" alt="MATLAB Logo" width="40">
+    <img src="/images/pyth.png" alt="Python Logo" width="25">
+    <img src="/images/Matlab_Logo.png" alt="MATLAB Logo" width="30">
+    <img src="/images/csh-P.png" alt="MATLAB Logo" width="30">
+    <img src="/images/JavaScript-logo.png" alt="JavaScript Logo" width="25">
   </p>
 
   <p>Proficient:  
-    <img src="/images/JavaScript-logo.png" alt="JavaScript Logo" width="25">
     <img src="/images/css3.png" alt="CSS3 Logo" width="30">
     <img src="/images/cpp.png" alt="C++ Logo" width="25">
     <img src="/images/vb.png" alt="Visual Basic Logo" width="28">
@@ -164,8 +164,8 @@ redirect_from:
   <img src="/images/Sql_data_base_with_logo.png" alt="Company Logo" width="58">
 
 
-  <p>Beginner:  <img src="/images/flut.png" alt="Company Logo" width="55">
-  <img src="/images/java-PhotoRoom.png-PhotoRoom.png" alt="Company Logo" width="50">
+  <p>Beginner:  <img src="/images/flutter.png" alt="Company Logo" width="70" style="display: inline-block;">
+  <img src="/images/java-PhotoRoom.png-PhotoRoom.png" alt="Company Logo" width="60" style="display: inline-block;">
 </div> -->
 
 
@@ -230,14 +230,16 @@ th {
 
 <div class="job-experience">
   <div class="job-details">
-  <h3>Academic Tutor</h3>
-  <p><img class="company-logo" src="/images/wsu-P.png" alt="Company Logo">Western Sydney University, School of Engineering<br>
-  April 2022 - Present<p>
-  <ul>
-  <li>Tutoring Robotics and Mobile Robotics for Bachelor and Master courses.</li>
+    <h3>Academic Tutor</h3>
+    <p><img class="company-logo" src="/images/wsu-P.png" alt="Company Logo">Western Sydney University, School of Engineering<br>
+    April 2022 - Present</p>
+    <ul>
+      <li>Tutoring Robotics and Mobile Robotics for Bachelor and Master courses.</li>
   <li>Conduct laboratory demonstrations and marking.</li></p>
-  </ul>
+    </ul>
+  </div>
 </div>
+
 
 
 

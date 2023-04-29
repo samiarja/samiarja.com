@@ -110,6 +110,16 @@ redirect_from:
   margin-top: 5px;
   margin-bottom: 5px;
 }
+.logo-container img:hover {
+  transform: scale(1.2);
+  transition: transform 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.logo-container img:hover {
+  opacity: 0.5;
+  transition: opacity 0.3s ease-in-out;
+}
 </style>
 
 
@@ -123,19 +133,51 @@ redirect_from:
 
 <div class="rSection">SKILLS AND INTERESTS</div>
 
+<div class="logo-container">
+  <p>Superior:   
+    <img src="/images/pyth.png" alt="Python Logo" width="30">
+    <img src="/images/Matlab_Logo.png" alt="MATLAB Logo" width="35">
+    <img src="/images/cs.png" alt="MATLAB Logo" width="40">
+  </p>
 
-| Programming Language | Experience Level |
-|----------------------|------------------|
-| Python               | Superior         |
-| C\#                  | Superior         |
-| Matlab               | Superior         |
-| CSS/JS               | Proficient       |
-| C++                  | Proficient       |
-| VB and SQL           | Proficient       |
-| Flutter              | Beginner         |
-| Java                 | Beginner         |
+  <p>Proficient:  
+    <img src="/images/JavaScript-logo.png" alt="JavaScript Logo" width="25">
+    <img src="/images/css3.png" alt="CSS3 Logo" width="30">
+    <img src="/images/cpp.png" alt="C++ Logo" width="25">
+    <img src="/images/vb.png" alt="Visual Basic Logo" width="28">
+    <img src="/images/Sql_data_base_with_logo.png" alt="SQL Logo" width="58">
+  </p>
+
+  <p>Beginner:  
+    <img src="/images/flut.png" alt="Flutter Logo" width="55">
+    <img src="/images/java-PhotoRoom.png-PhotoRoom.png" alt="Java Logo" width="50">
+  </p>
+</div>
+<!-- <div class="logo-container">
+  <p>Superior:   <img src="/images/pyth.png" alt="Company Logo" width="20">
+  <img src="/images/Matlab_Logo.png" alt="Company Logo" width="25">
+
+  <p>Proficient:  <img src="/images/JavaScript-logo.png" alt="Company Logo" width="25">
+  <img src="/images/css3.png" alt="Company Logo" width="30">
+  <img src="/images/cpp.png" alt="Company Logo" width="25">
+  <img src="/images/vb.png" alt="Company Logo" width="28">
+  <img src="/images/Sql_data_base_with_logo.png" alt="Company Logo" width="58">
+
+
+  <p>Beginner:  <img src="/images/flut.png" alt="Company Logo" width="55">
+  <img src="/images/java-PhotoRoom.png-PhotoRoom.png" alt="Company Logo" width="50">
+</div> -->
+
+
 
 <style>
+  .logo-container {
+  display: inline-block;
+}
+
+.logo-container img {
+  margin-right: 10px;
+}
 table {
   border-collapse: collapse;
   border: 1px solid #ffffff;

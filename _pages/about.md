@@ -120,11 +120,6 @@ I teach Robotics and Mobile Robotics at the School of Engineering at Western Syd
 </style>
 
 <div class="container">
-  <div class="header">
-    <!-- <h1>PhD Candidate at ICNS, Western Sydney University</h1>
-    <a href="#">Contact Me</a> -->
-  </div>
-
   <div class="education">
     <h2>Education</h2>
     <ul>
@@ -135,7 +130,6 @@ I teach Robotics and Mobile Robotics at the School of Engineering at Western Syd
   </div>
 
 
-<div class="footer">
 <p>
   <font size="2">
     <font size="2">
@@ -152,4 +146,3 @@ I teach Robotics and Mobile Robotics at the School of Engineering at Western Syd
     </font>
   </font>
 </p>
-</div> 

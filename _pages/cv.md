@@ -152,6 +152,30 @@ th {
   background-color: #cccccc;
   color: #ffffff;
 }
+
+.company-logo {
+  width: 40px;
+  height: auto;
+}
+.job {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .company-logo {
+    margin-right: 20px;
+  }
+
+  .company-logo img {
+    display: inline-block;
+    vertical-align: middle;
+    max-height: 50px;
+  }
+
+  .job-info h3 {
+    margin-top: 0;
+  }
 </style>
 
 
@@ -159,14 +183,38 @@ th {
 
 
 <div class="rSection">EXPERIENCE</div>
-### Academic Tutor
 
-Western Sydney University, School of Engineering\
-April 2022 - Present
 
-- Tutorials for Mobile Robotics unit.
-- Laboratory demonstration for Robotics/Advanced Robotics unit at various campuses.
-- Assist with marking and providing feedback for students.
+<div class="job">
+  <div class="company-logo">
+    <img src="/images/wsu.jpeg" alt="Company Logo">
+  </div>
+  <div class="job-info">
+    <h3>Academic Tutor</h3>
+    <p>Western Sydney University, School of Engineering</p>
+    <p>April 2022 - Present</p>
+    <ul>
+      <li>Tutorials for Mobile Robotics unit.</li>
+      <li>Laboratory demonstration for Robotics/Advanced Robotics unit at various campuses.</li>
+      <li>Assist with marking and providing feedback for students.</li>
+    </ul>
+  </div>
+</div>
+
+
+
+<!-- <h3><img class="company-logo" src="/images/wsu.jpeg" alt="Company Logo">
+Academic Tutor</h3>
+
+<p>Western Sydney University, School of Engineering<br>
+April 2022 - Present</p>
+
+<ul>
+  <li>Tutorials for Mobile Robotics unit.</li>
+  <li>Laboratory demonstration for Robotics/Advanced Robotics unit at various campuses.</li>
+  <li>Assist with marking and providing feedback for students.</li>
+</ul> -->
+
 
 
 ### Research Assistant - Algorithm Development

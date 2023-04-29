@@ -142,14 +142,15 @@ redirect_from:
   </p>
 
   <p>Proficient:  
-    <img src="/images/css3.png" alt="CSS3 Logo" width="30">
+    <img src="/images/htmlcss-PhotoRoom.png" alt="CSS3 Logo" width="40">
+    <img src="/images/HTML5-PhotoRoom.png-PhotoRoom.png" alt="CSS3 Logo" width="30">
     <img src="/images/cpp.png" alt="C++ Logo" width="25">
     <img src="/images/vb.png" alt="Visual Basic Logo" width="28">
     <img src="/images/Sql_data_base_with_logo.png" alt="SQL Logo" width="58">
   </p>
 
   <p>Beginner:  
-    <img src="/images/flut.png" alt="Flutter Logo" width="55">
+    <img src="/images/flutterz-PhotoRoom.png-PhotoRoom.png" alt="Flutter Logo" width="55">
     <img src="/images/java-PhotoRoom.png-PhotoRoom.png" alt="Java Logo" width="50">
   </p>
 </div>
@@ -160,8 +161,8 @@ redirect_from:
   <p>Proficient:  <img src="/images/JavaScript-logo.png" alt="Company Logo" width="25">
   <img src="/images/css3.png" alt="Company Logo" width="30">
   <img src="/images/cpp.png" alt="Company Logo" width="25">
-  <img src="/images/vb.png" alt="Company Logo" width="28">
   <img src="/images/Sql_data_base_with_logo.png" alt="Company Logo" width="58">
+  <img src="/images/vb2.png" alt="Company Logo" width="28">
 
 
   <p>Beginner:  <img src="/images/flutter.png" alt="Company Logo" width="70" style="display: inline-block;">
@@ -235,7 +236,7 @@ th {
     April 2022 - Present</p>
     <ul>
       <li>Tutoring Robotics and Mobile Robotics for Bachelor and Master courses.</li>
-  <li>Conduct laboratory demonstrations and marking.</li></p>
+  <li>Conduct laboratory demonstrations and marking.</li>
     </ul>
   </div>
 </div>

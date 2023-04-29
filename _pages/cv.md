@@ -154,18 +154,20 @@ th {
 }
 
 .company-logo {
-  width: 40px;
+  width: 15px;
   height: auto;
 }
 .job {
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 
   .company-logo {
-    margin-right: 20px;
+    margin-right: 5px;
   }
+
+
 
   .company-logo img {
     display: inline-block;
@@ -184,122 +186,120 @@ th {
 
 <div class="rSection">EXPERIENCE</div>
 
+<div class="job-experience">
+  <div class="job-details">
+  <h3>Academic Tutor</h3>
+  <p><img class="company-logo" src="/images/wsu-P.png" alt="Company Logo">Western Sydney University, School of Engineering<br>
+  April 2022 - Present<p>
+  <ul>
+  <li>Tutoring Robotics and Mobile Robotics for Bachelor and Master courses.</li>
+  <li>Conduct laboratory demonstrations and marking.</li></p>
+  </ul>
+</div>
 
-<div class="job">
-  <div class="company-logo">
-    <img src="/images/wsu.jpeg" alt="Company Logo">
-  </div>
-  <div class="job-info">
-    <h3>Academic Tutor</h3>
-    <p>Western Sydney University, School of Engineering</p>
-    <p>April 2022 - Present</p>
+
+
+<div class="job-experience">
+  <div class="job-details">
+    <h3>Research Assistant - Algorithm Development</h3>
+    <p><img class="company-logo" src="/images/wsu-P.png" alt="Company Logo">International Centre for Neuromorphic Systems<br>
+    April 2021 - February 2023</p>
     <ul>
-      <li>Tutorials for Mobile Robotics unit.</li>
-      <li>Laboratory demonstration for Robotics/Advanced Robotics unit at various campuses.</li>
-      <li>Assist with marking and providing feedback for students.</li>
+      <li>Develop an algorithm to detect bee waggle run motion.</li>
+      <li>Worked on transformer-like deep learning architectures for music generation using auto-regressive attention mechanism.</li>
+      <li>Developed a custom auto-regressive attention mechanism.</li>
+      <li>Investigated the model performance with deep single-head layers vs multi-head attention layers.</li>
+      <li>Investigated Bayesian optimization for hyper-parameter search.</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="job-experience">
+  <h3>Software Engineer</h3>
+  <p class="company-name"><img class="company-logo" src="/images/nautitech-P.png" alt="Company Logo">Nautitech Mining Systems Pty Ltd</p>
+  <p class="job-dates">May 2019 - December 2020</p>
+  <ul>
+    <li>Worked on linux-based web and desktop application development with C# and C++ to support thermal cameras.</li>
+    <li>Design and development of large database using MS SQL Server.</li>
+    <li>Develop video compression software to convert between different video protocols (e.g. GIGe, H.264).</li>
+    <li>Develop software for thermal image processing using Python/OpenCV.</li>
+    <li>Develop Javascript applications with Server-Sent-Events (SSE) and websocket for vehicle simulation on the browser.</li>
+    <li>Maintain and improve existing software (e.g. fix bugs and add features).</li>
+    <li>Write engineering technical documentations and report.</li>
+  </ul>
+</div>
+
+
+<div class="job-experience">
+  <h3>Robotics Class Instructor</h3>
+  <p class="company-name"><img  src="/images/rz.png" alt="Company Logo" width="50">RobotZilla - Baulkhaum Hill Public School</p>
+  <p class="job-dates">May 2018 - Present</p>
+  <ul>
+    <li>Teach kids the principles of coding on Scratch Junior and MIT App Inventor, as well as web development using Python, HTML, CSS, and JavaScript.</li>
+        <li>Assist kids in building and programming their own Lego Robots.</li>
+        <li>Design robotics kits to support the annual curriculum, such as Robotics arms, quadruped robots, and Robotics arms.</li>
+        <li>Platforms used are Scratch, MIT App Inventor, Arduino, and Lego Mindstorm.</li>
+  </ul>
+</div>
+
+<div class="job-experience">
+  <div class="job-details">
+    <h3>Assistant Technical Support Officer</h3>
+    <p><img class="company-logo" src="/images/wsu-P.png" alt="Company Logo">Western Sydney University, Engineering & Industrial Design Cluster<br>
+    February 2019 - September 2019</p>
+    <ul>
+      <li>Assist technical officers across the electrical, electronics, Mechatronics & Mechanical teams.</li>
+      <li>Assist in lab preparation for classes, basic maintenance duties, and moving and managing equipment.</li>
+      <li>Supporting students in running undergrad lab equipment.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="job-experience">
+  <div class="job-details">
+    <h3>Research Assistant - Biomedical Engineering</h3>
+    <p><img class="company-logo" src="/images/wsu-P.png" alt="Company Logo">The MARCS Institute for Brain, Behavior and Development<br>
+    November 2018 - May 2019</p>
+    <ul>
+      <li>Characterizations of electro-resistive fabrics band to be used in measuring human blood and respiration rate.</li>
+      <li>Implement an accurate data acquisition system on the CC2460R2 module which helps in recognizing patterns for each band during testing.</li>
+      <li>Using C and Matlab to support the data acquisition, Data analysis and Data visualization.</li>
+      <li>3D modelling an optimized version of the expansion/contraction machine.</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="job-experience">
+  <div class="job-details">
+    <h3>Research Assistant - Data Science</h3>
+    <p><img  src="/images/csiro-P.png" alt="Company Logo" width="40">CSIRO's Data61<br>
+    May 2018 - May 2019</p>
+    <ul>
+      <li>Conduct an online research analysis about Australian businesses listed on ASX.</li>
+      <li>Classify these Data into specific categories, for further analysis.</li>
+      <li>Use Pandas and Numpy to merge old and new data effectively without losing any entry and perform Data cleaning and Data Munging using VB macro scripts.</li>
+      <li>Update data already collected against primary sources, as well as identify and record data about other relevant organizations.</li>
     </ul>
   </div>
 </div>
 
 
 
-<!-- <h3><img class="company-logo" src="/images/wsu.jpeg" alt="Company Logo">
-Academic Tutor</h3>
-
-<p>Western Sydney University, School of Engineering<br>
-April 2022 - Present</p>
-
-<ul>
-  <li>Tutorials for Mobile Robotics unit.</li>
-  <li>Laboratory demonstration for Robotics/Advanced Robotics unit at various campuses.</li>
-  <li>Assist with marking and providing feedback for students.</li>
-</ul> -->
-
-
-
-### Research Assistant - Algorithm Development
-
-International Centre for Neuromorphic Systems\
-April 2021 - February 2023
-
-- Worked on developing an algorithm to detect bee waggle run motion
-- Worked on transformer-like deep learning architectures for music generation using auto-regressive attention mechanism.
-- Developed a custom auto-regressive attention mechanism.
-- Investigated the model performance with deep single-head layers vs multi-head attention layers.
-- Investigated Bayesian optimization for hyper-parameter search.
-
-### Software Engineer
-
-Nautitech Mining Systems Pty Ltd\
-May 2019 - December 2020
-
-- Working on linux based web and desktop application development with C# and C++ for thermal cameras devices.
-- Design and development of large database using MS SQL Server.
-- Develop video compression software to convert between different video protocols (e.g. GIGe, H.264).
-- Develop software for thermal image processing using Python/OpenCV.
-- Develop Javascript applications with Server-Sent-Events (SSE) and websocket for vehicle simulation on the browser.
-- Maintain and improve existing software (e.g. fix bugs and add features).
-- Write engineering technical documentations and report using MS-word and latex.
-
-
-### Robotics Class Instructor
-RobotZilla - Baulkhaum Hill Public School\
-May 2018 - Present
-
-- Teach kids the principle of coding on Scratch Junior - MIT App Inventor, as well as web development on Python/HTML/CSS/JavaScript.
-- Help Kids to build and program their own Lego Robot.
-- Design robotics kit to support the annual curriculum, such as Robotics arm, quadruped robot and Robotics arm.
-- Platforms used are Scratch, MIT App Inventor, Arduino and Lego Mindstorm.
-
-### Assistant Technical Support Officer
-Western Sydney University, Engineering & Industrial Design Cluster\
-February 2019 - September 2019
-
-- Assist technical officers across the electrical, electronics, Mechatronics & Mechanical teams.
-- Assist in lab preparation for classes, basic maintenance duties, and moving and managing equipment.
-- Supporting students in running undergrad lab equipment.
-
-### Research Assistant - Biomedical Engineering
-The MARCS Institute for Brain, Behavior and Development\
-November 2018 - May 2019
-
-- Project: Characterisation of morphic sensors for body volume applications.
-- Supervisors: Dr. Gaetano Garguilo and Dr. Paul Breen.
-- Characterizations of electro-resistive fabrics band to be used in measuring human blood and respiration rate.
-- Implement an accurate data acquisition system on the CC2460R2 module which helps in recognizing patterns for each band during testing. 
-- Using C and Matlab to support the data acquisition, Data analysis and Data visualization.
-- 3D modelling an optimized version of the expansion/contraction machine.
-- Paper Title: "Characterization of Morphic Sensors for body volume and shape applications".
-
-### Research Assistant - Data Science
-CSIRO's Data61\
-May 2018 - May 2019
-
-- Conduct an online research analysis about Australian businesses listed on ASX.
-- Review, edit and enter data about Australian businesses providing Environmental Goods and Services.
-- Classify these Data into specific categories, for further analysis.
-- Use Pandas and Numpy to merge old and new data effectively without losing any entry and perform Data cleaning and Data Munging using VB macro scripts.
-- Update data already collected against primary sources, as well as identify and record data about other relevant organizations.
-
-<!-- ### Robotics Engineer Intern
-Lab38 - Western Sydney University\
-October 2017 - January 2018
-
-- Design a CNC drawing machine using a mechanical linear rail to support a frictionless movement.
-- Program the electrical system of the machine to convert any input (image, text) to G-code.
-- Laser cut all parts and components using Corel software, and Solidworks as main program for 3D modelling. -->
-
-### Electronics Engineer Intern
-Mostyn Enterprises\
-December 2017 - March 2018
-
-- Design circuit boards using Altium Designer.
-- Generate bills of materials for each board design before fabrication.
-- Design radio frequency loop antenna & bias tee.
-- PCB reviews and technical documentation.
-
-
-
+<div class="job-experience">
+  <div class="job-details">
+    <h3>Electronics Engineer Intern</h3>
+    <p><img class="company-logo" src="/images/me.png" alt="Company Logo">Mostyn Enterprises<br>
+    December 2017 - March 2018</p>
+    <ul>
+      <li>Design circuit boards using Altium Designer.</li>
+      <li>Generate bills of materials for each board design before fabrication.</li>
+      <li>Design radio frequency loop antenna & bias tee.</li>
+      <li>PCB reviews and technical documentation.</li>
+    </ul>
+  </div>
+</div>
 
 
 

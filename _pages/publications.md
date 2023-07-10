@@ -79,7 +79,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
   <button class="button" onclick="copyCitation5()" style="color: black; font-size: 20px;">Cite</button>
   <button class="button" onclick="copyDOI5()" style="color: black; font-size: 20px;">DOI</button>
   <button class="button"><a href="https://arxiv.org/pdf/2304.14125.pdf" style="color: black; font-size: 20px;">PDF</a></button>
-  <button class="button"><a href="https://github.com/neuromorphicsystems/event_warping/tree/iss" style="color: black; font-size: 20px;">Code</a></button>
+  <button class="button"><a href="https://github.com/neuromorphicsystems/event_warping" style="color: black; font-size: 20px;">Code</a></button>
 </div>
 
 <hr style="border:1px solid black">

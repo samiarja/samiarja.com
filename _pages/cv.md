@@ -380,10 +380,19 @@ th {
 </div>
 
 
-<div class="counter">
-    <a href="http://www.easycounter.com/">
-      <img alt="HTML Counter" border="0" src="https://www.easycounter.com/counter.php?samiarja">
-    </a>
-    <i><font face="Arial" size="2">Unique visitors since December 2021</font></i>
-  </div>
-</div>
+<p>
+  <font size="2">
+    <font size="2">
+      <font size="2">
+        &nbsp;<br>
+        &nbsp;
+        <a href="http://www.easycounter.com/">
+          <img alt="HTML Counter" border="0" src="https://www.easycounter.com/counter.php?samiarja">
+        </a>
+        <i>
+          <font face="Arial" size="2">unique visitors since December 2021</font>
+        </i>
+      </font>
+    </font>
+  </font>
+</p>

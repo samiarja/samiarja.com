@@ -8,6 +8,11 @@ author_profile: true
   # - /about.html
 ---
 
+I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICNS)](https://www.westernsydney.edu.au/icns) at Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en). Currently, I am working on my PhD degree focusing on Space Situational Awareness and Neuromorphic Earth Observations using event cameras.
+
+Apart from research I also teach Robotics and Mobile Robotics at the School of Engineering at Western Sydney University.
+
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
 <style>
@@ -20,7 +25,7 @@ author_profile: true
     max-width: 800px;
     margin: 0 auto;
     padding: 30px;
-    background-color: #fff;
+    background-color: #ffffff; /* Use #ffffff for white */
     box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
   }
 
@@ -113,28 +118,9 @@ author_profile: true
   .footer a:hover {
     color: #333;
   }
-
-  .counter {
-    margin-top: 20px;
-    text-align: center;
-  }
-
-  .counter img {
-    margin-bottom: 5px;
-  }
-
-  .counter i {
-    font-size: 12px;
-    color: #666;
-  }
 </style>
 
 <div class="container">
-  <div class="header">
-    <h1>Sami Arja</h1>
-    <a href="#">About me</a>
-  </div>
-  
   <div class="education">
     <h1>Education</h1>
     <ul>
@@ -143,4 +129,4 @@ author_profile: true
       <li><i class="fas fa-graduation-cap"></i> BEng in Robotics and Mechatronics, 2019 <sup>WSU</sup></li>
     </ul>
   </div>
-  
+</div>

@@ -8,12 +8,7 @@ author_profile: true
   # - /about.html
 ---
 
-I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICNS)](https://www.westernsydney.edu.au/icns) at Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en). Currently, I am working on my PhD degree focusing on Space Situational Awareness and Neuromorphic Earth Observations using event cameras.
-
-I teach Robotics and Mobile Robotics at the School of Engineering at Western Sydney University.
-
-
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
 <style>
   body {
@@ -58,7 +53,7 @@ I teach Robotics and Mobile Robotics at the School of Engineering at Western Syd
     margin-bottom: 30px;
   }
 
-  .education h2 {
+  .education h1 {
     margin-bottom: 10px;
     font-size: 24px;
     font-weight: bold;
@@ -118,9 +113,28 @@ I teach Robotics and Mobile Robotics at the School of Engineering at Western Syd
   .footer a:hover {
     color: #333;
   }
+
+  .counter {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .counter img {
+    margin-bottom: 5px;
+  }
+
+  .counter i {
+    font-size: 12px;
+    color: #666;
+  }
 </style>
 
 <div class="container">
+  <div class="header">
+    <h1>Sami Arja</h1>
+    <a href="#">About me</a>
+  </div>
+  
   <div class="education">
     <h1>Education</h1>
     <ul>
@@ -129,21 +143,4 @@ I teach Robotics and Mobile Robotics at the School of Engineering at Western Syd
       <li><i class="fas fa-graduation-cap"></i> BEng in Robotics and Mechatronics, 2019 <sup>WSU</sup></li>
     </ul>
   </div>
-</div>
-
-<p>
-  <font size="2">
-    <font size="2">
-      <font size="2">
-        &nbsp;<br>
-        &nbsp;
-        <a href="http://www.easycounter.com/">
-          <img alt="HTML Counter" border="0" src="https://www.easycounter.com/counter.php?samiarja">
-        </a>
-        <i>
-          <font face="Arial" size="2">unique visitors since December 2021</font>
-        </i>
-      </font>
-    </font>
-  </font>
-</p>
+  

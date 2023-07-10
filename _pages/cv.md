@@ -378,3 +378,12 @@ th {
         <li>Develop navigation and mapping algorithm navigation through tracking features or landmarks within the track.</li>
     </ul>
 </div>
+
+
+<div class="counter">
+    <a href="http://www.easycounter.com/">
+      <img alt="HTML Counter" border="0" src="https://www.easycounter.com/counter.php?samiarja">
+    </a>
+    <i><font face="Arial" size="2">Unique visitors since December 2021</font></i>
+  </div>
+</div>

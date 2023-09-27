@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Omni-wheel Robot Simulation</title>
+    <style>
+        #canvas {
+            border: 2px solid black;
+            float: left;
+        }
+
+        .sidebar {
+            padding: 20px;
+            float: left;
+            margin-left: 20px;
+        }
+
+        /* Additional styles */
+        .matrix-box {
+            display: flex;
+            align-items: center;
+        }
+        .matrix {
+            display: inline-block;
+            border: 1px solid black;
+            margin: 0 10px;
+        }
+        .matrix-row {
+            display: flex;
+        }
+        .matrix-element {
+            width: 140px;
+            text-align: right;
+            padding: 1px 15px;
+            border: 1px solid #ddd;
+        }
+        .highlight {
+            background-color: #f5f5f5;
+        }
+        .equals {
+            font-size: 2em;
+            margin-right: 20px;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <canvas id="canvas" width="800" height="600"></canvas>
+    <div class="sidebar">
+        <p><strong>Robot Parameters:</strong></p>
+        <p>Speed: <span id="speed">0</span></p>
+        <p>Acceleration: <span id="accel">0</span></p>
+        <p>Orientation (θ): <span id="orientation">0</span>°</p>
+        <p>Distance to Target: <span id="distance">0</span>m</p>
+        <p>Wheel 1 Speed: <span id="wheel1">0</span></p>
+        <p>Wheel 2 Speed: <span id="wheel2">0</span></p>
+        <p>Wheel 3 Speed: <span id="wheel3">0</span></p>
+        <p><strong>Expanded Matrix:</strong></p>
+        <div id="matrixDisplay"></div>
+    </div>
+    
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+
+        let robot = {
+            x: canvas.width / 2,
+            y: canvas.height / 2,
+            radius: 40  
+        };
+        let target = null;
+        const omega = 0;  // constant angular velocity for this demo
+
+        canvas.addEventListener('click', function(event) {
+            target = {
+                x: event.clientX - canvas.offsetLeft,
+                y: event.clientY - canvas.offsetTop
+            };
+            moveRobotToTarget();
+        });
+        
+        function computeWheelSpeeds(V, theta, R) {
+            let matrix = [
+                [-Math.sin(theta), Math.cos(theta), R],
+                [-Math.sin(theta + 2 * Math.PI / 3), Math.cos(theta + 2 * Math.PI / 3), R],
+                [-Math.sin(theta - 2 * Math.PI / 3), Math.cos(theta - 2 * Math.PI / 3), R]
+            ];
+
+            // Calculate wheel speeds
+            let wheel1 = matrix[0][0] * V + matrix[0][1] + matrix[0][2];
+            let wheel2 = matrix[1][0] * V + matrix[1][1] + matrix[1][2];
+            let wheel3 = matrix[2][0] * V + matrix[2][1] + matrix[2][2];
+            
+            // Displaying the matrix with the actual value of theta
+            document.getElementById("matrixDisplay").innerHTML = `
+                <div class="matrix-box">
+                    <div class="matrix">
+                        <div class="matrix-row">
+                            <span class="matrix-element highlight">V₁ = ${wheel1.toFixed(2)}</span>
+                        </div>
+                        <div class="matrix-row">
+                            <span class="matrix-element highlight">V₂ = ${wheel2.toFixed(2)}</span>
+                        </div>
+                        <div class="matrix-row">
+                            <span class="matrix-element highlight">V₃ = ${wheel3.toFixed(2)}</span>
+                        </div>
+                    </div>
+                    <span class="equals">=</span>
+                    <div class="matrix">
+                        <div class="matrix-row">
+                            <span class="matrix-element">-sin(${(theta * (180 / Math.PI)).toFixed(2)}°)</span>
+                            <span class="matrix-element">cos(${(theta * (180 / Math.PI)).toFixed(2)}°)</span>
+                            <span class="matrix-element highlight">R</span>
+                        </div>
+                        <div class="matrix-row">
+                            <span class="matrix-element">-sin(${(theta * (180 / Math.PI)).toFixed(2)}° + 120°)</span>
+                            <span class="matrix-element">cos(${(theta * (180 / Math.PI)).toFixed(2)}° + 120°)</span>
+                            <span class="matrix-element highlight">R</span>
+                        </div>
+                        <div class="matrix-row">
+                            <span class="matrix-element">-sin(${(theta * (180 / Math.PI)).toFixed(2)}° - 120°)</span>
+                            <span class="matrix-element">cos(${(theta * (180 / Math.PI)).toFixed(2)}° - 120°)</span>
+                            <span class="matrix-element highlight">R</span>
+                        </div>
+                    </div>
+                    <div class="matrix">
+                        <div class="matrix-row">
+                            <span class="matrix-element highlight">V = ${V.toFixed(2)}</span>
+                        </div>
+                        <div class="matrix-row">
+                            <span class="matrix-element">0</span>
+                        </div>
+                        <div class="matrix-row">
+                            <span class="matrix-element highlight">ω = ${omega.toFixed(2)}</span>
+                        </div>
+                    </div>
+                </div>
+            `;
+
+            // Display wheel speeds
+            document.getElementById("wheel1").textContent = wheel1.toFixed(2);
+            document.getElementById("wheel2").textContent = wheel2.toFixed(2);
+            document.getElementById("wheel3").textContent = wheel3.toFixed(2);
+            return [wheel1, wheel2, wheel3];
+        }
+
+        let currentAngle = 0;
+
+        function moveRobotToTarget() {
+            if (!target) return;
+
+            let dx = target.x - robot.x;
+            let dy = target.y - robot.y;
+            let distance = Math.sqrt(dx * dx + dy * dy);
+            let targetAngle = Math.atan2(dy, dx);
+
+            // Smoothly rotate the robot towards the target
+            let deltaAngle = targetAngle - currentAngle;
+            if (deltaAngle > Math.PI) deltaAngle -= 2 * Math.PI;
+            if (deltaAngle < -Math.PI) deltaAngle += 2 * Math.PI;
+            currentAngle += deltaAngle * 0.05;
+
+            let V = (distance > 1) ? 1 : 0;  // Simplified constant speed for this demo
+
+            // Compute wheel speeds and update the matrix using the current rotation angle
+            let wheelSpeeds = computeWheelSpeeds(V, currentAngle, 0.1);
+
+            if (distance > 1) {
+                robot.x +=  dx * 0.01;
+                robot.y +=  dy * 0.01;
+            } else {
+                target = null;
+            }
+            
+            // Display robot parameters
+            document.getElementById("speed").textContent = V.toFixed(2);
+            document.getElementById("orientation").textContent = (currentAngle * (180 / Math.PI)).toFixed(2);
+            document.getElementById("distance").textContent = distance.toFixed(2);
+            document.getElementById("wheel1").textContent = wheelSpeeds[0].toFixed(2);
+            document.getElementById("wheel2").textContent = wheelSpeeds[1].toFixed(2);
+            document.getElementById("wheel3").textContent = wheelSpeeds[2].toFixed(2);
+            render();
+        }
+
+        function render() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            ctx.save();
+            ctx.translate(robot.x, robot.y);
+            ctx.rotate(currentAngle);
+
+            // Draw robot
+            ctx.beginPath();
+            ctx.arc(0, 0, robot.radius, 0, 2 * Math.PI);
+            ctx.fillStyle = 'black';
+            ctx.fill();
+            ctx.closePath();
+
+            // Triangular arrangement for colored circles
+            let distanceFromCenter = robot.radius / 2;
+            let circleRadius = 8;  // Radius of colored circles
+
+            // Cyan circle (top)
+            ctx.beginPath();
+            ctx.arc(0, -distanceFromCenter, circleRadius, 0, 2 * Math.PI);
+            ctx.fillStyle = 'cyan';
+            ctx.fill();
+            ctx.closePath();
+
+            // Magenta circle (bottom left)
+            ctx.beginPath();
+            ctx.arc(-distanceFromCenter * Math.cos(Math.PI/6), distanceFromCenter * Math.sin(Math.PI/6), circleRadius, 0, 2 * Math.PI);
+            ctx.fillStyle = 'magenta';
+            ctx.fill();
+            ctx.closePath();
+
+            // Yellow circle (bottom right)
+            ctx.beginPath();
+            ctx.arc(distanceFromCenter * Math.cos(Math.PI/6), distanceFromCenter * Math.sin(Math.PI/6), circleRadius, 0, 2 * Math.PI);
+            ctx.fillStyle = 'yellow';
+            ctx.fill();
+            ctx.closePath();
+
+            // Dribbler location (Star) at the front of the robot
+            let starX = 0;
+            let starY = -robot.radius - 5;  // 5 units in front of the robot
+            let starRadius = 10;
+            let starPoints = 10;
+
+            // ctx.beginPath();
+            // for (let i = 0; i < 2 * starPoints; i++) {
+            //     let rad = (i % 2 === 0) ? starRadius : starRadius / 2;
+            //     ctx.lineTo(starX + rad * Math.sin(i * Math.PI / starPoints), starY - rad * Math.cos(i * Math.PI / starPoints));
+            // }
+            // ctx.closePath();
+            // ctx.fillStyle = 'red';  // Updated the star color to red
+            // ctx.fill();
+
+            ctx.restore();
+
+            // Draw target if it exists
+            if (target) {
+                ctx.beginPath();
+                ctx.arc(target.x, target.y, 5, 0, 2 * Math.PI);
+                ctx.fillStyle = 'red';
+                ctx.fill();
+                ctx.closePath();
+            }
+
+            requestAnimationFrame(moveRobotToTarget);
+        }
+
+
+
+        render();
+    </script>
+</body>
+
+</html>

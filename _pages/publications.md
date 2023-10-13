@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+# title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-<div style="display: flex; align-items: center;">
-  <h1 style="font-size: 28px;">Density Invariant Contrast Maximization for Neuromorphic Earth Observations
-</h1>
-  <!-- <img src="/images/paper1.png" style="width: 300px; height: 300px; margin-left: 20px;"> -->
+<div style="display: flex; align-items: center; background-color: #f8f8f8; padding: 20px; border-radius: 10px;">
+  <h1 style="font-size: 28px; margin: 0; text-shadow: 2px 2px 2px #888;">Density Invariant Contrast Maximization for Neuromorphic Earth Observations</h1>
 </div>
 
 

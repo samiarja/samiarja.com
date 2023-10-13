@@ -4,11 +4,13 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
+
 <div style="display: flex; align-items: center; background-color: #f8f8f8; padding: 20px; border-radius: 10px;">
-  <div style="flex-grow: 1;">
-    <h1 style="font-size: 28px; margin: 0;">Density Invariant Contrast Maximization for Neuromorphic Earth Observations</h1>
-  </div>
-  <img src="./../images/cvpr_front_img_hr.png" style="width: 150px; height: auto; margin-left: 20px;">
+  <div style="display: flex; align-items: center; background-color: #333; padding: 20px; border-radius: 10px;">
+  <h1 style="font-size: 28px; margin: 0; color: white;">Density Invariant Contrast Maximization for Neuromorphic Earth Observations</h1>
+</div>
+
+  <img src="./../images/cvpr_front_img_hr.png" style="width: 250px; height: auto; margin-left: 20px;">
 </div>
 
 <p>

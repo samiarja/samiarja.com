@@ -66,7 +66,6 @@ author_profile: true
 
 
 <div style="padding: 20px; border-radius: 10px;">
-  
   <div style="display: flex; align-items: stretch;">
     <div style="flex-grow: 1; display: flex; align-items: center; justify-content: center; background-color: #333; padding: 20px; border-radius: 10px;">
       <h1 style="font-size: 28px; margin: 0; color: white;">Density Invariant Contrast Maximization for Neuromorphic Earth Observations</h1>
@@ -87,9 +86,7 @@ author_profile: true
     <button class="button"><a href="https://arxiv.org/pdf/2304.14125.pdf" style="color: black; font-size: 20px;">PDF</a></button>
     <button class="button"><a href="https://github.com/neuromorphicsystems/event_warping" style="color: black; font-size: 20px;">Code</a></button>
   </div>
-  
 </div>
-
 
 
 <hr style="border:1px solid black">

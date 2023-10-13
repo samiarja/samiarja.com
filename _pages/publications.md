@@ -344,7 +344,7 @@ author_profile: true
     <div style="flex-grow: 1; display: flex; align-items: center; justify-content: center; background-color: #333; padding: 20px; border-radius: 10px;">
       <h1 style="font-size: 28px; margin: 0; color: white;">Characterization of morphic sensors for body volume and shape applications</h1>
     </div>
-    <img src="./../images/secondnetworkarchitecturemodified.jpg" style="width: 250px; height: auto; margin-left: 20px;">
+    <img src="./../images/ADC.png" style="width: 250px; height: auto; margin-left: 20px;">
   </div>
   <div style="display: flex; flex-direction: column;">
     <p>

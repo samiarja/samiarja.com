@@ -98,19 +98,16 @@ author_profile: true
     </div>
     <img src="./../images/benchmark.png" style="width: 250px; height: auto; margin-left: 20px;">
   </div>
-  
   <div style="display: flex; flex-direction: column;">
     <p>
       Frontiers in Neuroscience, 2022
     </p>
     <p>Moritz B Milde, Saeed Afshar, Ying Xu, Alexandre Marcireau, Damien Joubert, Bharath Ramesh, Yeshwanth Bethi, Nicholas O Ralph, <strong>Sami Arja</strong>, Nik Dennler, André van Schaik, Gregory Cohen</p>
   </div>
-  
   <div class="button-container" style="padding-top: 20px;">
     <button class="button" onclick="copyCitation4()" style="color: black; font-size: 20px;">Cite</button>
     <button class="button" onclick="copyDOI4()" style="color: black; font-size: 20px;">DOI</button>
     <button class="button"><a href="https://researchdirect.westernsydney.edu.au/islandora/object/uws:69020/datastream/PDF/view" style="color: black; font-size: 20px;">PDF</a></button>
-    
   </div>
 </div>
 
@@ -177,14 +174,26 @@ author_profile: true
 <hr style="border:1px solid black">
 
 
-<div style="display: flex; align-items: center;">
-  <h1 style="font-size: 28px;">Neuromorphic Perception for Greenhouse Technology Using Event-based Sensors</h1>
-  <!-- <img src="/images/paper1.png" style="width: 300px; height: 300px; margin-left: 20px;"> -->
+<div style="padding: 20px; border-radius: 10px;">
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex-grow: 1; display: flex; align-items: center; justify-content: center; background-color: #333; padding: 20px; border-radius: 10px;">
+      <h1 style="font-size: 28px; margin: 0; color: white;">Neuromorphic Perception for Greenhouse Technology Using Event-based Sensors</h1>
+    </div>
+    <img src="./../images/secondnetworkarchitecturemodified.jpg" style="width: 250px; height: auto; margin-left: 20px;">
+  </div>
+  <div style="display: flex; flex-direction: column;">
+    <p>
+      MPhil Thesis, 2021
+    </p>
+    <p><strong>Sami Arja</strong></p>
+  </div>
+  <div class="button-container" style="padding-top: 20px;">
+    <button class="button" onclick="copyCitation3()" style="color: black; font-size: 20px;">Cite</button>
+    <button class="button" onclick="copyDOI3()" style="color: black; font-size: 20px;">DOI</button>
+    <button class="button"><a href="https://researchdirect.westernsydney.edu.au/islandora/object/uws:67799/datastream/PDF/view" style="color: black; font-size: 20px;">PDF</a></button>
+  </div>
 </div>
 
-
-<p>MPhil Thesis, 2021</p>
-<p><strong>Sami Arja</strong></p>
 
 <style>
   .button-container {
@@ -244,15 +253,8 @@ author_profile: true
   }
 </script>
 
-<div class="button-container">
-  <button class="button" onclick="copyCitation3()" style="color: black; font-size: 20px;">Cite</button>
-  <button class="button" onclick="copyDOI3()" style="color: black; font-size: 20px;">DOI</button>
-  <button class="button"><a href="https://researchdirect.westernsydney.edu.au/islandora/object/uws:67799/datastream/PDF/view" style="color: black; font-size: 20px;">PDF</a></button>
-  <!-- <button class="button"><a href="https://example.com">Code</a></button> -->
-</div>
 
 <hr style="border:1px solid black">
-
 
 
 

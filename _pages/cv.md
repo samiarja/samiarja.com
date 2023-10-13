@@ -12,7 +12,7 @@ redirect_from:
 <style>
   body {
     font-family: 'Helvetica Neue', sans-serif;
-    background-color: #f2f2f2;
+    background-color: #ffffff;
   }
   
   h1, h2, h3, h4, h5, h6 {

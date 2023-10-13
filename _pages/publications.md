@@ -64,19 +64,22 @@ author_profile: true
   }
 </script>
 
+
 <div style="padding: 20px; border-radius: 10px;">
   
   <div style="display: flex; align-items: start;">
     <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: center; background-color: #333; padding: 20px; border-radius: 10px;">
       <h1 style="font-size: 28px; margin: 0; color: white;">Density Invariant Contrast Maximization for Neuromorphic Earth Observations</h1>
     </div>
-    <img src="./../images/cvpr_front_img_hr.png" style="width: 150px; height: auto; margin-left: 20px;">
+    <img src="./../images/cvpr_front_img_hr.png" style="width: 350px; height: auto; margin-left: 20px;">
   </div>
   
-  <p>
-    IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023
-  </p>
-  <p><strong>Sami Arja</strong>, Alexandre Marcireau, Richard L. Balthazor, Matthew G. McHarg, Saeed Afshar, Gregory Cohen</p>
+  <div style="display: flex; flex-direction: column;">
+    <p>
+      IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023
+    </p>
+    <p><strong>Sami Arja</strong>, Alexandre Marcireau, Richard L. Balthazor, Matthew G. McHarg, Saeed Afshar, Gregory Cohen</p>
+  </div>
   
   <div class="button-container" style="padding-top: 20px;">
     <button class="button" onclick="copyCitation5()" style="color: black; font-size: 20px;">Cite</button>
@@ -86,6 +89,7 @@ author_profile: true
   </div>
   
 </div>
+
 
 
 

@@ -68,10 +68,17 @@ author_profile: true
 <div style="padding: 20px; border-radius: 10px;">
   
   <div style="display: flex; align-items: stretch;">
-    <div style="flex-grow: 1; display: flex; align-items: center; justify-content: center; background-color: #333; padding: 20px; border-radius: 10px;">
+    <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between; background-color: #333; padding: 20px; border-radius: 10px;">
       <h1 style="font-size: 28px; margin: 0; color: white;">Density Invariant Contrast Maximization for Neuromorphic Earth Observations</h1>
+      
+      <div class="button-container" style="padding-top: 20px;">
+        <button class="button" onclick="copyCitation5()" style="color: white; font-size: 20px; background-color: black;">Cite</button>
+        <button class="button" onclick="copyDOI5()" style="color: white; font-size: 20px; background-color: black;">DOI</button>
+        <button class="button"><a href="https://arxiv.org/pdf/2304.14125.pdf" style="color: white; font-size: 20px;">PDF</a></button>
+        <button class="button"><a href="https://github.com/neuromorphicsystems/event_warping" style="color: white; font-size: 20px;">Code</a></button>
+      </div>
     </div>
-    <img src="./../images/cvpr_front_img_hr.png" style="width: 250px; height: auto; margin-left: 20px;">
+    <img src="./../images/cvpr_front_img_hr.png" style="width: 350px; height: auto; margin-left: 20px;">
   </div>
   
   <div style="display: flex; flex-direction: column;">
@@ -81,14 +88,8 @@ author_profile: true
     <p><strong>Sami Arja</strong>, Alexandre Marcireau, Richard L. Balthazor, Matthew G. McHarg, Saeed Afshar, Gregory Cohen</p>
   </div>
   
-  <div class="button-container" style="padding-top: 20px;">
-    <button class="button" onclick="copyCitation5()" style="color: black; font-size: 20px;">Cite</button>
-    <button class="button" onclick="copyDOI5()" style="color: black; font-size: 20px;">DOI</button>
-    <button class="button"><a href="https://arxiv.org/pdf/2304.14125.pdf" style="color: black; font-size: 20px;">PDF</a></button>
-    <button class="button"><a href="https://github.com/neuromorphicsystems/event_warping" style="color: black; font-size: 20px;">Code</a></button>
-  </div>
-  
 </div>
+
 
 
 

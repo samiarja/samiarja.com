@@ -12,8 +12,8 @@ author_profile: true
 </div>
 
 
-  <img src="./../images/cvpr_front_img_hr.png" style="width: 150px; height: auto; margin-left: 20px;">
-</div>
+<!-- <img src="./../images/cvpr_front_img_hr.png" style="width: 150px; height: auto; margin-left: 20px;">
+</div> -->
 
 <p>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023

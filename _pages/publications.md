@@ -5,20 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div style="display: flex; align-items: center; padding: 20px; border-radius: 10px; background-image: url('./../images/cvpr_front_img_hr.png'); background-size: cover; background-position: center;">
-  <div style="display: flex; align-items: center; background-color: rgba(0, 0, 0, 0.6); padding: 20px; border-radius: 10px;">
+<div style="display: flex; align-items: center; padding: 20px; border-radius: 10px;">
+  
+  <div style="flex-grow: 1; display: flex; align-items: center; background-color: #333; padding: 20px; border-radius: 10px;">
     <h1 style="font-size: 28px; margin: 0; color: white;">Density Invariant Contrast Maximization for Neuromorphic Earth Observations</h1>
   </div>
+  
+  <img src="./../images/cvpr_front_img_hr.png" style="width: 250px; height: auto; margin-left: 20px;">
 </div>
 
-
-<!-- <img src="./../images/cvpr_front_img_hr.png" style="width: 150px; height: auto; margin-left: 20px;">
-</div> -->
-
-<p>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023
-</p>
-<p><strong>Sami Arja</strong>, Alexandre Marcireau, Richard L. Balthazor, Matthew G. McHarg, Saeed Afshar, Gregory Cohen</p>
+<div style="padding: 0 20px;">
+  <p>
+    IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023
+  </p>
+  <p><strong>Sami Arja</strong>, Alexandre Marcireau, Richard L. Balthazor, Matthew G. McHarg, Saeed Afshar, Gregory Cohen</p>
+</div>
 
 
 <style>

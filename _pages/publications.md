@@ -256,16 +256,26 @@ author_profile: true
 
 <hr style="border:1px solid black">
 
-
-
-<div style="display: flex; align-items: center;">
-  <h1 style="font-size: 28px;">Characterization of Coated Piezo-resistive Fabric for Respiration Sensing</h1>
-  <!-- <img src="/images/paper1.png" style="width: 300px; height: 300px; margin-left: 20px;"> -->
+<div style="padding: 20px; border-radius: 10px;">
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex-grow: 1; display: flex; align-items: center; justify-content: center; background-color: #333; padding: 20px; border-radius: 10px;">
+      <h1 style="font-size: 28px; margin: 0; color: white;">Characterization of Coated Piezo-resistive Fabric for Respiration Sensing</h1>
+    </div>
+    <img src="./../images/stretch.png" style="width: 250px; height: auto; margin-left: 20px;">
+  </div>
+  <div style="display: flex; flex-direction: column;">
+    <p>
+      International Conference on Electrical Engineering Research & Practice (ICEERP), 2019
+    </p>
+    <p><strong>Sami Arja</strong>, Titus Jayarathna, Felipe Ulloa, Gaetano Gargiulo, Paul Breen</p>
+  </div>
+  <div class="button-container" style="padding-top: 20px;">
+    <button class="button" onclick="copyCitation2()" style="color: black; font-size: 20px;">Cite</button>
+    <button class="button" onclick="copyDOI2()" style="color: black; font-size: 20px;">DOI</button>
+    <button class="button"><a href="https://www.researchgate.net/profile/Titus-Nanda-Kumara/publication/338599389_Characterization_of_Coated_Piezo-resistive_Fabric_for_Respiration_Sensing/links/5e7aef2ea6fdcc57b7bbb8a9/Characterization-of-Coated-Piezo-resistive-Fabric-for-Respiration-Sensing.pdf" style="color: black; font-size: 20px;">PDF</a></button>
+  </div>
 </div>
 
-
-<p>International Conference on Electrical Engineering Research & Practice (ICEERP), 2019</p>
-<p><strong>Sami Arja</strong>, Titus Jayarathna, Felipe Ulloa, Gaetano Gargiulo, Paul Breen</p>
 
 <style>
   .button-container {
@@ -325,25 +335,31 @@ author_profile: true
   }
 </script>
 
-<div class="button-container">
-  <button class="button" onclick="copyCitation2()" style="color: black; font-size: 20px;">Cite</button>
-  <button class="button" onclick="copyDOI2()" style="color: black; font-size: 20px;">DOI</button>
-  <button class="button"><a href="https://www.researchgate.net/profile/Titus-Nanda-Kumara/publication/338599389_Characterization_of_Coated_Piezo-resistive_Fabric_for_Respiration_Sensing/links/5e7aef2ea6fdcc57b7bbb8a9/Characterization-of-Coated-Piezo-resistive-Fabric-for-Respiration-Sensing.pdf" style="color: black; font-size: 20px;">PDF</a></button>
-  <!-- <button class="button"><a href="https://example.com">Code</a></button> -->
-</div>
 
 <hr style="border:1px solid black">
 
 
-
-<div style="display: flex; align-items: center;">
-  <h1 style="font-size: 28px;">Characterization of morphic sensors for body volume and shape applications</h1>
-  <!-- <img src="/images/paper1.png" style="width: 300px; height: 300px; margin-left: 20px;"> -->
+<div style="padding: 20px; border-radius: 10px;">
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex-grow: 1; display: flex; align-items: center; justify-content: center; background-color: #333; padding: 20px; border-radius: 10px;">
+      <h1 style="font-size: 28px; margin: 0; color: white;">Characterization of morphic sensors for body volume and shape applications</h1>
+    </div>
+    <img src="./../images/secondnetworkarchitecturemodified.jpg" style="width: 250px; height: auto; margin-left: 20px;">
+  </div>
+  <div style="display: flex; flex-direction: column;">
+    <p>
+      Sensors Journal, 2019
+    </p>
+    <p><strong>Sami Arja</strong>, Titus Jayarathna, Ganish Naik, Paul Breen, Gaetano Gargiulo</p>
+  </div>
+  <div class="button-container" style="padding-top: 20px;">
+    <button class="button" onclick="copyCitation1()" style="color: black; font-size: 20px;">Cite</button>
+    <button class="button" onclick="copyDOI1()" style="color: black; font-size: 20px;">DOI</button>
+    <button class="button"><a href="https://pdfs.semanticscholar.org/5b6f/de4216f65d88bff0b6bbce2c31b687d410a1.pdf?_gl=1*11wka38*_ga*NjkwMDkyNDczLjE2ODIyNTY1Nzk.*_ga_H7P4ZT52H5*MTY4MjY1MTMwMC41LjAuMTY4MjY1MTY1OS4wLjAuMA" style="color: black; font-size: 20px;">PDF</a></button>
+  </div>
 </div>
 
 
-<p>Sensors Journal, 2019</p>
-<p><strong>Sami Arja</strong>, Titus Jayarathna, Ganish Naik, Paul Breen, Gaetano Gargiulo</p>
 
 <style>
   .button-container {
@@ -403,11 +419,5 @@ author_profile: true
   }
 </script>
 
-<div class="button-container">
-  <button class="button" onclick="copyCitation1()" style="color: black; font-size: 20px;">Cite</button>
-  <button class="button" onclick="copyDOI1()" style="color: black; font-size: 20px;">DOI</button>
-  <button class="button"><a href="https://pdfs.semanticscholar.org/5b6f/de4216f65d88bff0b6bbce2c31b687d410a1.pdf?_gl=1*11wka38*_ga*NjkwMDkyNDczLjE2ODIyNTY1Nzk.*_ga_H7P4ZT52H5*MTY4MjY1MTMwMC41LjAuMTY4MjY1MTY1OS4wLjAuMA" style="color: black; font-size: 20px;">PDF</a></button>
-  <!-- <button class="button"><a href="https://example.com">Code</a></button> -->
-</div>
 
 <hr style="border:1px solid black">

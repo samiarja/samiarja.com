@@ -122,8 +122,8 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
   <div class="education">
     <h1>Education</h1>
     <ul>
-      <li><i class="fas fa-spinner"></i> PhD in Neuromorphic Engineering, Present <sup>ICNS</sup></li>
-      <li><i class="fas fa-graduation-cap"></i> MPhil in Neuromorphic Engineering, 2021 <sup>ICNS</sup></li>
+      <li><i class="fas fa-spinner"></i> PhD in Neuromorphic Engineering, Present <sup>WSU/ICNS</sup></li>
+      <li><i class="fas fa-graduation-cap"></i> MPhil in Neuromorphic Engineering, 2021 <sup>WSU/ICNS</sup></li>
       <li><i class="fas fa-graduation-cap"></i> BEng in Robotics and Mechatronics, 2019 <sup>WSU</sup></li>
     </ul>
   </div>

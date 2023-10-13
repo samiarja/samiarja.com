@@ -5,22 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div style="display: flex; align-items: start; padding: 20px; border-radius: 10px;">
-  
-  <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: center; background-color: #333; padding: 20px; border-radius: 10px;">
-    <h1 style="font-size: 28px; margin: 0; color: white;">Density Invariant Contrast Maximization for Neuromorphic Earth Observations</h1>
-    <div style="padding: 20px 0;">
-      <p>
-        IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023
-      </p>
-      <p><strong>Sami Arja</strong>, Alexandre Marcireau, Richard L. Balthazor, Matthew G. McHarg, Saeed Afshar, Gregory Cohen</p>
-    </div>
-  </div>
-  
-  <img src="./../images/cvpr_front_img_hr.png" style="width: 250px; height: auto; margin-left: 20px;">
-</div>
-
-
 
 <style>
   .button-container {
@@ -80,12 +64,31 @@ author_profile: true
   }
 </script>
 
-<div class="button-container">
-  <button class="button" onclick="copyCitation5()" style="color: black; font-size: 20px;">Cite</button>
-  <button class="button" onclick="copyDOI5()" style="color: black; font-size: 20px;">DOI</button>
-  <button class="button"><a href="https://arxiv.org/pdf/2304.14125.pdf" style="color: black; font-size: 20px;">PDF</a></button>
-  <button class="button"><a href="https://github.com/neuromorphicsystems/event_warping" style="color: black; font-size: 20px;">Code</a></button>
+<div style="padding: 20px; border-radius: 10px;">
+  
+  <div style="display: flex; align-items: start;">
+    <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: center; background-color: #333; padding: 20px; border-radius: 10px;">
+      <h1 style="font-size: 28px; margin: 0; color: white;">Density Invariant Contrast Maximization for Neuromorphic Earth Observations</h1>
+    </div>
+    <img src="./../images/cvpr_front_img_hr.png" style="width: 150px; height: auto; margin-left: 20px;">
+  </div>
+  
+  <p>
+    IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023
+  </p>
+  <p><strong>Sami Arja</strong>, Alexandre Marcireau, Richard L. Balthazor, Matthew G. McHarg, Saeed Afshar, Gregory Cohen</p>
+  
+  <div class="button-container" style="padding-top: 20px;">
+    <button class="button" onclick="copyCitation5()" style="color: black; font-size: 20px;">Cite</button>
+    <button class="button" onclick="copyDOI5()" style="color: black; font-size: 20px;">DOI</button>
+    <button class="button"><a href="https://arxiv.org/pdf/2304.14125.pdf" style="color: black; font-size: 20px;">PDF</a></button>
+    <button class="button"><a href="https://github.com/neuromorphicsystems/event_warping" style="color: black; font-size: 20px;">Code</a></button>
+  </div>
+  
 </div>
+
+
+
 
 <hr style="border:1px solid black">
 

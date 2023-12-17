@@ -75,7 +75,9 @@ author_profile: true
   
   <div style="display: flex; flex-direction: column;">
     <p>
-      IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023
+      IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+
+      Event-based Vision Workshop
     </p>
     <p><strong>Sami Arja</strong>, Alexandre Marcireau, Richard L. Balthazor, Matthew G. McHarg, Saeed Afshar, Gregory Cohen</p>
   </div>

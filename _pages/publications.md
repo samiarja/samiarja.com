@@ -70,7 +70,7 @@ author_profile: true
     <div style="flex-grow: 1; display: flex; align-items: center; justify-content: center; background-color: #333; padding: 20px; border-radius: 10px;">
       <h1 style="font-size: 28px; margin: 0; color: white;">Density Invariant Contrast Maximization for Neuromorphic Earth Observations</h1>
     </div>
-    <img src="./../images/cvpr_front_img_hr.png" style="width: 250px; height: auto; margin-left: 20px;">
+    <img src="./../images/cvpr_front_img.png" style="width: 250px; height: auto; margin-left: 20px;">
   </div>
   
   <div style="display: flex; flex-direction: column;">

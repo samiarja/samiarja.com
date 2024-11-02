@@ -110,8 +110,7 @@ author_profile: true
     <button class="button"><a href="https://arxiv.org/pdf/2405.15209.pdf" style="color: black; font-size: 20px;">PDF</a></button>
     <button class="button"><a href="https://samiarja.github.io/evairborne/" style="color: black; font-size: 20px;">Code</a></button>
   </div>
-  <!-- <button class="button"><a href="https://samiarja.github.io/evairborne/" style="color: black; font-size: 20px;">Project Page</a></button> -->
-  </div>
+  <!-- </div> -->
 </div>
 
 

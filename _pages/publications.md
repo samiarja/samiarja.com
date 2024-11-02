@@ -65,6 +65,56 @@ author_profile: true
 </script>
 
 
+<script>
+  function copyDOI6() {
+    var doiLink = "arXiv:2405.15209";
+    copyToClipboard(doiLink);
+  }
+  function copyCitation6() {
+    fetch('motionseg.bib')
+      .then(response => response.text())
+      .then(text => {
+        copyToClipboard(text);
+      })
+      .catch(error => console.log(error));
+  }
+  function copyToClipboard(text) {
+    var textarea = document.createElement("textarea");
+    textarea.value = text;
+    document.body.appendChild(textarea);
+    textarea.select();
+    document.execCommand("copy");
+    document.body.removeChild(textarea);
+    alert("Copied to clipboard: " + text);
+  }
+</script>
+
+<div style="padding: 20px; border-radius: 10px;">
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex-grow: 1; display: flex; align-items: center; justify-content: center; background-color: #333; padding: 20px; border-radius: 10px;">
+      <h1 style="font-size: 28px; margin: 0; color: white;">Motion Segmentation for Neuromorphic Aerial Surveillance</h1>
+    </div>
+    <img src="./../images/motion_seg_architecture.png" style="width: 250px; height: auto; margin-left: 20px;">
+  </div>
+  
+  <div style="display: flex; flex-direction: column;">
+    <p>
+      ArXiv, 2024
+    </p>
+    <p><strong>Sami Arja</strong>, Alexandre Marcireau, Saeed Afshar, Bharath Ramesh, Gregory Cohen</p>
+  </div>
+  
+  <div class="button-container" style="padding-top: 20px;">
+    <button class="button" onclick="copyCitation6()" style="color: black; font-size: 20px;">Cite</button>
+    <button class="button" onclick="copyDOI6()" style="color: black; font-size: 20px;">DOI</button>
+    <button class="button"><a href="https://arxiv.org/pdf/2405.15209.pdf" style="color: black; font-size: 20px;">PDF</a></button>
+    <button class="button"><a href="https://samiarja.github.io/evairborne/" style="color: black; font-size: 20px;">Code</a></button>
+  </div>
+  <!-- <button class="button"><a href="https://samiarja.github.io/evairborne/" style="color: black; font-size: 20px;">Project Page</a></button> -->
+  </div>
+</div>
+
+
 <div style="padding: 20px; border-radius: 10px;">
   <div style="display: flex; align-items: stretch;">
     <div style="flex-grow: 1; display: flex; align-items: center; justify-content: center; background-color: #333; padding: 20px; border-radius: 10px;">

@@ -184,158 +184,153 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
         <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
       </div>
     </div>
-  </div>
     
     <!-- 2nd Publication -->
     <div class="publication-item">
-      <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
-      </div>
-      <div class="pub-details">
-        <h3>paper title1</h3>
-        <p>author1, author2, author3</p>
-        <p class="pub-venue">conference name</p>
-        <div class="pub-buttons">
-          <button>Paper</button>
-          <button>Code</button>
-          <button>Project Page</button>
-        </div>
+    <div class="pub-image">
+      <img src="static/images/thumbnail.png" alt="Thumbnail">
+    </div>
+    <div class="pub-details">
+      <h3>paper title1</h3>
+      <p>author1, author2, author3</p>
+      <p class="pub-venue">conference name</p>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
       </div>
     </div>
 
     <!-- 3nd Publication -->
     <div class="publication-item">
-      <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
-      </div>
-      <div class="pub-details">
-        <h3>paper title1</h3>
-        <p>author1, author2, author3</p>
-        <p class="pub-venue">conference name</p>
-        <div class="pub-buttons">
-          <button>Paper</button>
-          <button>Code</button>
-          <button>Project Page</button>
-        </div>
+    <div class="pub-image">
+      <img src="static/images/thumbnail.png" alt="Thumbnail">
+    </div>
+    <div class="pub-details">
+      <h3>paper title1</h3>
+      <p>author1, author2, author3</p>
+      <p class="pub-venue">conference name</p>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
       </div>
     </div>
 
     <!-- 4th Publication -->
     <div class="publication-item">
-      <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
-      </div>
-      <div class="pub-details">
-        <h3>paper title1</h3>
-        <p>author1, author2, author3</p>
-        <p class="pub-venue">conference name</p>
-        <div class="pub-buttons">
-          <button>Paper</button>
-          <button>Code</button>
-          <button>Project Page</button>
-        </div>
+    <div class="pub-image">
+      <img src="static/images/thumbnail.png" alt="Thumbnail">
+    </div>
+    <div class="pub-details">
+      <h3>paper title1</h3>
+      <p>author1, author2, author3</p>
+      <p class="pub-venue">conference name</p>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
       </div>
     </div>
 
     <!-- 5th Publication -->
     <div class="publication-item">
-      <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
-      </div>
-      <div class="pub-details">
-        <h3>paper title1</h3>
-        <p>author1, author2, author3</p>
-        <p class="pub-venue">conference name</p>
-        <div class="pub-buttons">
-          <button>Paper</button>
-          <button>Code</button>
-          <button>Project Page</button>
-        </div>
+    <div class="pub-image">
+      <img src="static/images/thumbnail.png" alt="Thumbnail">
+    </div>
+    <div class="pub-details">
+      <h3>paper title1</h3>
+      <p>author1, author2, author3</p>
+      <p class="pub-venue">conference name</p>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
       </div>
     </div>
+
 
     <!-- 6th Publication -->
     <div class="publication-item">
-      <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
-      </div>
-      <div class="pub-details">
-        <h3>paper title1</h3>
-        <p>author1, author2, author3</p>
-        <p class="pub-venue">conference name</p>
-        <div class="pub-buttons">
-          <button>Paper</button>
-          <button>Code</button>
-          <button>Project Page</button>
-        </div>
+    <div class="pub-image">
+      <img src="static/images/thumbnail.png" alt="Thumbnail">
+    </div>
+    <div class="pub-details">
+      <h3>paper title1</h3>
+      <p>author1, author2, author3</p>
+      <p class="pub-venue">conference name</p>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
       </div>
     </div>
+
 
     <!-- 7th Publication -->
     <div class="publication-item">
-      <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
-      </div>
-      <div class="pub-details">
-        <h3>paper title1</h3>
-        <p>author1, author2, author3</p>
-        <p class="pub-venue">conference name</p>
-        <div class="pub-buttons">
-          <button>Paper</button>
-          <button>Code</button>
-          <button>Project Page</button>
-        </div>
+    <div class="pub-image">
+      <img src="static/images/thumbnail.png" alt="Thumbnail">
+    </div>
+    <div class="pub-details">
+      <h3>paper title1</h3>
+      <p>author1, author2, author3</p>
+      <p class="pub-venue">conference name</p>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
       </div>
     </div>
+
 
     <!-- 8th Publication -->
     <div class="publication-item">
-      <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
-      </div>
-      <div class="pub-details">
-        <h3>paper title1</h3>
-        <p>author1, author2, author3</p>
-        <p class="pub-venue">conference name</p>
-        <div class="pub-buttons">
-          <button>Paper</button>
-          <button>Code</button>
-          <button>Project Page</button>
-        </div>
+    <div class="pub-image">
+      <img src="static/images/thumbnail.png" alt="Thumbnail">
+    </div>
+    <div class="pub-details">
+      <h3>paper title1</h3>
+      <p>author1, author2, author3</p>
+      <p class="pub-venue">conference name</p>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
       </div>
     </div>
+
 
     <!-- 9th Publication -->
     <div class="publication-item">
-      <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
-      </div>
-      <div class="pub-details">
-        <h3>paper title1</h3>
-        <p>author1, author2, author3</p>
-        <p class="pub-venue">conference name</p>
-        <div class="pub-buttons">
-          <button>Paper</button>
-          <button>Code</button>
-          <button>Project Page</button>
-        </div>
+    <div class="pub-image">
+      <img src="static/images/thumbnail.png" alt="Thumbnail">
+    </div>
+    <div class="pub-details">
+      <h3>paper title1</h3>
+      <p>author1, author2, author3</p>
+      <p class="pub-venue">conference name</p>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
       </div>
     </div>
 
+
     <!-- 10th Publication -->
     <div class="publication-item">
-      <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
-      </div>
-      <div class="pub-details">
-        <h3>paper title1</h3>
-        <p>author1, author2, author3</p>
-        <p class="pub-venue">conference name</p>
-        <div class="pub-buttons">
-          <button>Paper</button>
-          <button>Code</button>
-          <button>Project Page</button>
-        </div>
+    <div class="pub-image">
+      <img src="static/images/thumbnail.png" alt="Thumbnail">
+    </div>
+    <div class="pub-details">
+      <h3>paper title1</h3>
+      <p>author1, author2, author3</p>
+      <p class="pub-venue">conference name</p>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
       </div>
     </div>
     
@@ -351,4 +346,3 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
       <li><i class="fas fa-graduation-cap"></i> Bachelor (Honours) - Robotics and Mechatronics Engineering, 2015 - 2019</li>
     </ul>
   </div>
-<br><br>

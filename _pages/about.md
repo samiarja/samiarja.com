@@ -348,7 +348,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       <div class="pub-details">
         <h3>Characterization of Coated Piezo-resistive Fabric for Respiration Sensing</h3>
         <p>Sami El Arja, Titus Jayarathna, Felipe Ulloa, Gaetano Gargiulo, Paul Breen</p>
-        <p class="pub-venue">Conference Name, Year</p>
+        <p class="pub-venue">2019 International Conference on Electrical Engineering Research & Practice (ICEERP)</p>
       </div>
       <div class="pub-buttons">
         <a class="pub-btn" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8956989" target="_blank">Paper</a>

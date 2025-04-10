@@ -237,7 +237,40 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       </div>
     </div>
     
-    <!-- Repeat additional publication items as needed -->
+    <!-- Publication Item 4 -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>Paper Title 3</h3>
+        <p>Author1, Author2, Author3</p>
+        <p class="pub-venue">Conference Name, Year</p>
+      </div>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+      </div>
+    </div>
+
+
+    <!-- Publication Item 5 -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>Paper Title 3</h3>
+        <p>Author1, Author2, Author3</p>
+        <p class="pub-venue">Conference Name, Year</p>
+      </div>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+      </div>
+    </div>
     
   </div>
 </div>

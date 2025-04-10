@@ -8,14 +8,15 @@ author_profile: true
 #  - /about.html
 ---
 
-I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICNS)](https://www.westernsydney.edu.au/icns) at Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en). My research focuses on motion estimation for event cameras for space applications.
+I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS)](https://www.westernsydney.edu.au/icns) at Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en), and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en). My research focuses on event-based motion estimation for space-related applications.
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
 <style>
+  /* Global Styles */
   body {
-    font-family: Arial, sans-serif;
-    background-color: #ffffff;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f4f4f4;
     margin: 0;
     padding: 0;
   }
@@ -23,88 +24,100 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
     max-width: 800px;
     margin: 30px auto;
     padding: 30px;
-    background-color: #ffffff;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+    background-color: transparent; /* matching overall background */
   }
   h1, h2, h3 {
     color: #333;
+    margin: 0 0 15px;
   }
+
   /* Publications Section */
   .publications {
     margin-bottom: 40px;
   }
   .publications h2 {
-    margin-bottom: 20px;
     font-size: 28px;
+    color: #333;
     border-bottom: 2px solid #ccc;
     padding-bottom: 5px;
+    margin-bottom: 20px;
+    text-align: center;
   }
   .publication-item {
     display: flex;
-    align-items: flex-start;
+    flex-direction: column;
     background-color: #fff;
-    border-radius: 6px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    padding: 20px;
     margin-bottom: 20px;
-    padding: 15px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .publication-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   }
   .pub-image {
-    flex: 0 0 120px;
-    margin-right: 20px;
+    width: 100%;
+    margin-bottom: 15px;
   }
   .pub-image img {
     width: 100%;
     height: auto;
     display: block;
-    border-radius: 4px;
+    border-radius: 8px;
   }
   .pub-details {
-    flex: 1;
+    text-align: center;
   }
   .pub-details h3 {
-    margin: 0 0 5px 0;
-    font-size: 20px;
+    font-size: 22px;
+    margin-bottom: 8px;
   }
   .pub-details p {
     margin: 4px 0;
-    color: #444;
+    color: #555;
   }
   .pub-venue {
     font-style: italic;
-    color: #666;
+    color: #777;
+    margin-top: 5px;
     margin-bottom: 10px;
   }
-  /* Publication Buttons Container */
+  /* Publication Buttons */
   .pub-buttons {
-    margin-top: 10px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
   }
-  /* Unified Publication Button Style */
   .pub-btn {
     display: inline-block;
-    padding: 6px 12px;
+    padding: 10px 15px;
     border: 1px solid #ccc;
     border-radius: 4px;
-    background-color: #f5f5f5;
-    color: #333;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    color: #fff;
     text-decoration: none;
-    margin-right: 10px;
-    transition: background-color 0.2s ease;
-    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease;
   }
   .pub-btn:hover {
-    background-color: #e0e0e0;
+    background: linear-gradient(135deg, #2575fc, #6a11cb);
   }
+
   /* Education Section */
   .education {
     margin-bottom: 40px;
   }
   .education h1 {
-    margin-bottom: 10px;
     font-size: 24px;
     font-weight: bold;
     color: #333;
     border-bottom: 2px solid #ccc;
     padding-bottom: 5px;
+    margin-bottom: 20px;
+    text-align: center;
   }
   .education ul {
     list-style: none;
@@ -116,6 +129,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
     font-size: 18px;
     display: flex;
     align-items: center;
+    justify-content: center;
   }
   .education li sup {
     margin-left: 10px;
@@ -135,7 +149,8 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
   }
-  /* Footer styles */
+
+  /* Footer Styles */
   .footer {
     margin-top: 30px;
     font-size: 14px;
@@ -153,6 +168,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
 </style>
 
 
+<div class="container">
   <!-- Education Section -->
   <div class="education">
     <h1>Education - Western Sydney University</h1>
@@ -170,7 +186,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
   <div class="publications">
     <h2>Publications</h2>
     
-    <!-- 1st Publication -->
+    <!-- Publication Item 1 -->
     <div class="publication-item">
       <div class="pub-image">
         <img src="static/images/thumbnail.png" alt="Thumbnail">
@@ -187,7 +203,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
       </div>
     </div>
     
-    <!-- 2nd Publication -->
+    <!-- Publication Item 2 -->
     <div class="publication-item">
       <div class="pub-image">
         <img src="static/images/thumbnail.png" alt="Thumbnail">
@@ -204,7 +220,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
       </div>
     </div>
     
-    <!-- 3rd Publication -->
+    <!-- Publication Item 3 -->
     <div class="publication-item">
       <div class="pub-image">
         <img src="static/images/thumbnail.png" alt="Thumbnail">
@@ -221,44 +237,10 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
       </div>
     </div>
     
-    <!-- Repeat for additional publications -->
-    
-    <!-- 4th Publication -->
-    <div class="publication-item">
-      <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
-      </div>
-      <div class="pub-details">
-        <h3>Paper Title 4</h3>
-        <p>Author1, Author2, Author3</p>
-        <p class="pub-venue">Conference Name, Year</p>
-      </div>
-      <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
-      </div>
-    </div>
-    
-    <!-- 5th Publication -->
-    <div class="publication-item">
-      <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
-      </div>
-      <div class="pub-details">
-        <h3>Paper Title 5</h3>
-        <p>Author1, Author2, Author3</p>
-        <p class="pub-venue">Conference Name, Year</p>
-      </div>
-      <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
-      </div>
-    </div>
-    
-    <!-- Add additional publication items as desired -->
+    <!-- Repeat additional publication items as needed -->
     
   </div>
 </div>
 
+
+  

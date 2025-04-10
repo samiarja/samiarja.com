@@ -184,7 +184,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
 <div class="container">
   <!-- Publications Section -->
   <div class="publications">
-    <h2>Publications</h2>
+    <h2>Publications List</h2>
     
     <!-- Publication Item 1 -->
     <div class="publication-item">
@@ -343,17 +343,15 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
     <!-- Publication Item 10 -->
     <div class="publication-item">
       <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
+        <img src="images/paper1_thumbnail.png" alt="Thumbnail">
       </div>
       <div class="pub-details">
-        <h3>Paper Title 10</h3>
-        <p>Author1, Author2, Author3</p>
+        <h3>Characterization of Coated Piezo-resistive Fabric for Respiration Sensing</h3>
+        <p>Sami El Arja, Titus Jayarathna, Felipe Ulloa, Gaetano Gargiulo, Paul Breen</p>
         <p class="pub-venue">Conference Name, Year</p>
       </div>
       <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+        <a class="pub-btn" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8956989" target="_blank">Paper</a>
       </div>
     </div>
     

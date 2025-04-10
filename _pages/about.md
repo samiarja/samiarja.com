@@ -154,7 +154,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
     <!-- 1st Publication -->
     <div class="publication-item">
       <div class="pub-image">
-        <img src="static/images/etap_thumbnail.png" alt="ETAP Thumbnail">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
       </div>
       <div class="pub-details">
         <h3>paper title1</h3>
@@ -168,7 +168,90 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
       </div>
     </div>
     
-    <!-- You can add further publication items here following the same structure -->
+    <!-- 2nd Publication -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>paper title1</h3>
+        <p>author1, author2, author3</p>
+        <p class="pub-venue">conference name</p>
+        <div class="pub-buttons">
+          <button>Paper</button>
+          <button>Code</button>
+          <button>Project Page</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 3nd Publication -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>paper title1</h3>
+        <p>author1, author2, author3</p>
+        <p class="pub-venue">conference name</p>
+        <div class="pub-buttons">
+          <button>Paper</button>
+          <button>Code</button>
+          <button>Project Page</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 4th Publication -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>paper title1</h3>
+        <p>author1, author2, author3</p>
+        <p class="pub-venue">conference name</p>
+        <div class="pub-buttons">
+          <button>Paper</button>
+          <button>Code</button>
+          <button>Project Page</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 5th Publication -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>paper title1</h3>
+        <p>author1, author2, author3</p>
+        <p class="pub-venue">conference name</p>
+        <div class="pub-buttons">
+          <button>Paper</button>
+          <button>Code</button>
+          <button>Project Page</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 6th Publication -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>paper title1</h3>
+        <p>author1, author2, author3</p>
+        <p class="pub-venue">conference name</p>
+        <div class="pub-buttons">
+          <button>Paper</button>
+          <button>Code</button>
+          <button>Project Page</button>
+        </div>
+      </div>
+    </div>
     
   </div>
 </div>

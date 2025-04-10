@@ -278,21 +278,21 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
         <img src="static/images/thumbnail.png" alt="Thumbnail">
       </div>
       <div class="pub-details">
-        <h3>Paper Title 6</h3>
-        <p>Author1, Author2, Author3</p>
-        <p class="pub-venue">Conference Name, Year</p>
+        <h3>Density invariant contrast maximization for neuromorphic Earth observations</h3>
+        <p>Sami Arja, Alexandre Marcireau, Richard L Balthazor, Matthew G McHarg, Saeed Afshar, Gregory Cohen</p>
+        <p class="pub-venue">Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023</p>
       </div>
       <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+        <a class="pub-btn" href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Arja_Density_Invariant_Contrast_Maximization_for_Neuromorphic_Earth_Observations_CVPRW_2023_paper.pdf" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://github.com/neuromorphicsystems/event_warping" target="_blank">Code</a>
+        <a class="pub-btn" href="https://samiarja.github.io/earthobservation/" target="_blank">Project Page</a>
       </div>
     </div>
 
     <!-- Publication Item 7 -->
     <div class="publication-item">
       <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
+        <img src="/images/paper4_thumbnail.png" alt="Thumbnail">
       </div>
       <div class="pub-details">
         <h3>Neuromorphic engineering needs closed-loop benchmarks</h3>
@@ -307,7 +307,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
     <!-- Publication Item 8 -->
     <div class="publication-item">
       <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
+        <img src="images/paper3_thumbnail.jpg" alt="Thumbnail">
       </div>
       <div class="pub-details">
         <h3>Neuromorphic Perception for Greenhouse Technology Using Event-based Sensors</h3>

@@ -194,7 +194,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       <div class="pub-details">
         <h3>Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera</h3>
         <p>Sami Arja, Nimrod Kruger, Alexandre Marcireau, Nicholas Owen Ralph, Saeed Afshar and Gregory Cohen</p>
-        <p class="pub-venue">Conference Name, Year</p>
+        <p class="pub-venue">Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025 (Event-based Workshop)</p>
       </div>
       <div class="pub-buttons">
         <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>

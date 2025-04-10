@@ -8,8 +8,7 @@ author_profile: true
   # - /about.html
 ---
 
-I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICNS)](https://www.westernsydney.edu.au/icns) at Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en). My research focuses on motion estimation for event cameras for space applications. Additionally, I teach Robotics and Mobile Robotics at the School of Engineering.
-
+I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICNS)](https://www.westernsydney.edu.au/icns) at Western Sydney University, where I am mainly advised by A/Prof. [Gregory Cohen](http://greg-cohen.com/), Dr. [Saeed Afshar](https://scholar.google.com.au/citations?user=a8FPrPwAAAAJ&hl=en) and Dr. [Alexander Marcireau](https://scholar.google.com/citations?user=43KBWgoAAAAJ&hl=en). My research focuses on motion estimation for event cameras for space applications.
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
@@ -118,13 +117,15 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
   }
 </style>
 
+
 <div class="container">
   <div class="education">
     <h1>Education</h1>
+    <h2>Western Sydney University</h2>
     <ul>
-      <li><i class="fas fa-spinner"></i> PhD in Neuromorphic Engineering, 2021 - Present <sup>WSU/ICNS</sup></li>
-      <li><i class="fas fa-graduation-cap"></i> MPhil in Neuromorphic Engineering, 2021 <sup>WSU/ICNS</sup></li>
-      <li><i class="fas fa-graduation-cap"></i> BEng in Robotics and Mechatronics, 2019 <sup>WSU</sup></li>
+      <li><i class="fas fa-spinner"></i> PhD - Neuromorphic Engineering, 2022 - 2025</li>
+      <li><i class="fas fa-graduation-cap"></i> Master - Neuromorphic Engineering, 2019 - 2021</li>
+      <li><i class="fas fa-graduation-cap"></i> Bachelor (Honours) - Robotics and Mechatronics Engineering, 2015 - 2019</li>
     </ul>
   </div>
 </div>

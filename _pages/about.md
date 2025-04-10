@@ -189,51 +189,48 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
     <!-- Publication Item 1 -->
     <div class="publication-item">
       <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
+        <img src="images/paper10_thumbnail.png" alt="Thumbnail">
       </div>
       <div class="pub-details">
-        <h3>Paper Title 1</h3>
-        <p>Author1, Author2, Author3</p>
+        <h3>Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera</h3>
+        <p>Sami Arja, Nimrod Kruger, Alexandre Marcireau, Nicholas Owen Ralph, Saeed Afshar and Gregory Cohen</p>
         <p class="pub-venue">Conference Name, Year</p>
       </div>
       <div class="pub-buttons">
         <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+        <a class="pub-btn" href="https://github.com/samiarja/OctoEye" target="_blank">Code</a>
+        <a class="pub-btn" href="https://samiarja.github.io/neuromorphic_octopus_eye/" target="_blank">Project Page</a>
       </div>
     </div>
     
     <!-- Publication Item 2 -->
     <div class="publication-item">
       <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
+        <img src="images/paper9_thumbnail.png" alt="Thumbnail">
       </div>
       <div class="pub-details">
-        <h3>Paper Title 2</h3>
-        <p>Author1, Author2, Author3</p>
-        <p class="pub-venue">Conference Name, Year</p>
+        <h3>Performance metrics for neuromorphic imaging</h3>
+        <p>Nimrod Kruger, Sami Arja, Evie Andrew, Travis Monk, André van Schaik</p>
+        <p class="pub-venue">Quantum Sensing and Nano Electronics and Photonics XXI</p>
       </div>
       <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+        <a class="pub-btn" href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13376/133760D/Performance-metrics-for-neuromorphic-imaging/10.1117/12.3041873.short" target="_blank">Paper</a>
       </div>
     </div>
     
     <!-- Publication Item 3 -->
     <div class="publication-item">
       <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
+        <img src="images/paper8_thumbnail.png" alt="Thumbnail">
       </div>
       <div class="pub-details">
-        <h3>Paper Title 3</h3>
-        <p>Author1, Author2, Author3</p>
-        <p class="pub-venue">Conference Name, Year</p>
+        <h3>Noise Filtering Benchmark for Neuromorphic Satellites Observations</h3>
+        <p>Sami Arja, Alexandre Marcireau, Nicholas Owen Ralph, Saeed Afshar, Gregory Cohen</p>
+        <p class="pub-venue">arXiv, 2024</p>
       </div>
       <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+        <a class="pub-btn" href="https://arxiv.org/pdf/2411.11233" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://github.com/samiarja/dvs_sparse_filter" target="_blank">Code</a>
       </div>
     </div>
     

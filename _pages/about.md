@@ -326,17 +326,15 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
     <!-- Publication Item 9 -->
     <div class="publication-item">
       <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
+        <img src="images/paper2_thumbnail.png" alt="Thumbnail">
       </div>
       <div class="pub-details">
-        <h3>Paper Title 9</h3>
-        <p>Author1, Author2, Author3</p>
-        <p class="pub-venue">Conference Name, Year</p>
+        <h3>Characterisation of Morphic Sensors for Body Volume and Shape Applications</h3>
+        <p>Sami El Arja, Titus Jayarathna, Ganesh Naik, Paul Breen, Gaetano Gargiulo</p>
+        <p class="pub-venue">Sensors 2020</p>
       </div>
       <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+        <a class="pub-btn" href="https://www.mdpi.com/1424-8220/20/1/90" target="_blank">Paper</a>
       </div>
     </div>
 

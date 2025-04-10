@@ -143,6 +143,25 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
   .footer a:hover {
     color: #333;
   }
+
+  /* Publication Buttons styled as hyperlinks */
+  .pub-buttons {
+    margin-top: 10px;
+  }
+  .pub-btn {
+    display: inline-block;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f5f5f5;
+    color: #333;
+    text-decoration: none;
+    margin-right: 10px;
+    transition: background-color 0.2s ease;
+  }
+  .pub-btn:hover {
+    background-color: #e0e0e0;
+  }
 </style>
 
 
@@ -151,22 +170,21 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
   <div class="publications">
     <h2>Publications</h2>
     
-    <!-- 1st Publication -->
     <div class="publication-item">
-      <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
-      </div>
-      <div class="pub-details">
-        <h3>paper title1</h3>
-        <p>author1, author2, author3</p>
-        <p class="pub-venue">conference name</p>
-        <div class="pub-buttons">
-          <button>Paper</button>
-          <button>Code</button>
-          <button>Project Page</button>
-        </div>
+    <div class="pub-image">
+      <img src="static/images/thumbnail.png" alt="Thumbnail">
+    </div>
+    <div class="pub-details">
+      <h3>paper title1</h3>
+      <p>author1, author2, author3</p>
+      <p class="pub-venue">conference name</p>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
       </div>
     </div>
+  </div>
     
     <!-- 2nd Publication -->
     <div class="publication-item">
@@ -333,9 +351,4 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
       <li><i class="fas fa-graduation-cap"></i> Bachelor (Honours) - Robotics and Mechatronics Engineering, 2015 - 2019</li>
     </ul>
   </div>
-
-  <!-- Footer -->
-  <div class="footer">
-    <p>&copy; 2025 Sami Arja. All rights reserved.</p>
-  </div>
-</div>
+<br><br>

@@ -193,7 +193,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       </div>
       <div class="pub-details">
         <h3>Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera</h3>
-        <p>Sami Arja, Nimrod Kruger, Alexandre Marcireau, Nicholas Owen Ralph, Saeed Afshar and Gregory Cohen</p>
+        <p><strong>Sami Arja</strong>, Nimrod Kruger, Alexandre Marcireau, Nicholas Owen Ralph, Saeed Afshar and Gregory Cohen</p>
         <p class="pub-venue">Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025 (Event-based Workshop)</p>
       </div>
       <div class="pub-buttons">
@@ -210,7 +210,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       </div>
       <div class="pub-details">
         <h3>Performance metrics for neuromorphic imaging</h3>
-        <p>Nimrod Kruger, Sami Arja, Evie Andrew, Travis Monk, André van Schaik</p>
+        <p>Nimrod Kruger, <strong>Sami Arja</strong>, Evie Andrew, Travis Monk, André van Schaik</p>
         <p class="pub-venue">Quantum Sensing and Nano Electronics and Photonics XXI</p>
       </div>
       <div class="pub-buttons">
@@ -225,7 +225,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       </div>
       <div class="pub-details">
         <h3>Noise Filtering Benchmark for Neuromorphic Satellites Observations</h3>
-        <p>Sami Arja, Alexandre Marcireau, Nicholas Owen Ralph, Saeed Afshar, Gregory Cohen</p>
+        <p><strong>Sami Arja</strong>, Alexandre Marcireau, Nicholas Owen Ralph, Saeed Afshar, Gregory Cohen</p>
         <p class="pub-venue">arXiv, 2024</p>
       </div>
       <div class="pub-buttons">
@@ -241,7 +241,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       </div>
       <div class="pub-details">
         <h3>Active Neuromorphic Space Imaging and Focusing using Liquid Lenses</h3>
-        <p>Nicholas Owen Ralph, Darren Maybour, Alexandre Marcireau, Nik Dennler, Sami Arja, Nimrod Kruger, Gregory Cohen</p>
+        <p>Nicholas Owen Ralph, Darren Maybour, Alexandre Marcireau, Nik Dennler, <strong>Sami Arja</strong>, Nimrod Kruger, Gregory Cohen</p>
         <p class="pub-venue">arXiv, 2024</p>
       </div>
       <div class="pub-buttons">
@@ -257,7 +257,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       </div>
       <div class="pub-details">
         <h3>Motion Segmentation for Neuromorphic Aerial Surveillance</h3>
-        <p>Sami Arja, Alexandre Marcireau, Saeed Afshar, Bharath Ramesh, Gregory Cohen</p>
+        <p><strong>Sami Arja</strong>, Alexandre Marcireau, Saeed Afshar, Bharath Ramesh, Gregory Cohen</p>
         <p class="pub-venue">arXiv, 2024</p>
       </div>
       <div class="pub-buttons">
@@ -274,7 +274,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       </div>
       <div class="pub-details">
         <h3>Density invariant contrast maximization for neuromorphic Earth observations</h3>
-        <p>Sami Arja, Alexandre Marcireau, Richard L Balthazor, Matthew G McHarg, Saeed Afshar, Gregory Cohen</p>
+        <p><strong>Sami Arja</strong>, Alexandre Marcireau, Richard L Balthazor, Matthew G McHarg, Saeed Afshar, Gregory Cohen</p>
         <p class="pub-venue">Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023 (Event-based Workshop)</p>
       </div>
       <div class="pub-buttons">
@@ -291,7 +291,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       </div>
       <div class="pub-details">
         <h3>Neuromorphic engineering needs closed-loop benchmarks</h3>
-        <p>Moritz B Milde, Saeed Afshar, Ying Xu, Alexandre Marcireau, Damien Joubert, Bharath Ramesh, Yeshwanth Bethi, Nicholas O Ralph, Sami El Arja, Nik Dennler, André van Schaik, Gregory Cohen</p>
+        <p>Moritz B Milde, Saeed Afshar, Ying Xu, Alexandre Marcireau, Damien Joubert, Bharath Ramesh, Yeshwanth Bethi, Nicholas O Ralph, <strong>Sami Arja</strong>, Nik Dennler, André van Schaik, Gregory Cohen</p>
         <p class="pub-venue">Frontiers Neuroscience, 2022</p>
       </div>
       <div class="pub-buttons">
@@ -306,7 +306,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       </div>
       <div class="pub-details">
         <h3>Neuromorphic Perception for Greenhouse Technology Using Event-based Sensors</h3>
-        <p>Sami El Arja</p>
+        <p><strong>Sami Arja</strong></p>
         <p class="pub-venue">Master Thesis, 2021</p>
       </div>
       <div class="pub-buttons">
@@ -321,7 +321,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       </div>
       <div class="pub-details">
         <h3>Characterisation of Morphic Sensors for Body Volume and Shape Applications</h3>
-        <p>Sami El Arja, Titus Jayarathna, Ganesh Naik, Paul Breen, Gaetano Gargiulo</p>
+        <p><strong>Sami Arja</strong>, Titus Jayarathna, Ganesh Naik, Paul Breen, Gaetano Gargiulo</p>
         <p class="pub-venue">Sensors 2020</p>
       </div>
       <div class="pub-buttons">
@@ -336,7 +336,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       </div>
       <div class="pub-details">
         <h3>Characterization of Coated Piezo-resistive Fabric for Respiration Sensing</h3>
-        <p>Sami El Arja, Titus Jayarathna, Felipe Ulloa, Gaetano Gargiulo, Paul Breen</p>
+        <p><strong>Sami Arja</strong>, Titus Jayarathna, Felipe Ulloa, Gaetano Gargiulo, Paul Breen</p>
         <p class="pub-venue">2019 International Conference on Electrical Engineering Research & Practice (ICEERP)</p>
       </div>
       <div class="pub-buttons">

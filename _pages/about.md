@@ -49,8 +49,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
     padding: 15px;
   }
   .pub-image {
-    flex: 0 0 auto;
-    width: 120px;
+    flex: 0 0 120px;
     margin-right: 20px;
   }
   .pub-image img {
@@ -75,17 +74,25 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
     color: #666;
     margin-bottom: 10px;
   }
-  .pub-buttons button {
-    background-color: #f5f5f5;
+  /* Publication Buttons Container */
+  .pub-buttons {
+    margin-top: 10px;
+  }
+  /* Unified Publication Button Style */
+  .pub-btn {
+    display: inline-block;
+    padding: 6px 12px;
     border: 1px solid #ccc;
     border-radius: 4px;
-    padding: 6px 12px;
-    margin-right: 8px;
-    cursor: pointer;
+    background-color: #f5f5f5;
+    color: #333;
+    text-decoration: none;
+    margin-right: 10px;
     transition: background-color 0.2s ease;
+    cursor: pointer;
   }
-  .pub-buttons button:hover {
-    background-color: #e6e6e6;
+  .pub-btn:hover {
+    background-color: #e0e0e0;
   }
   /* Education Section */
   .education {
@@ -143,37 +150,8 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
   .footer a:hover {
     color: #333;
   }
-
-  /* Publication Buttons styled as hyperlinks */
-  .pub-buttons {
-    margin-top: 10px;
-  }
-  .pub-btn {
-    display: inline-block;
-    padding: 6px 12px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    background-color: #f5f5f5;
-    color: #333;
-    text-decoration: none;
-    margin-right: 10px;
-    transition: background-color 0.2s ease;
-  }
-  .pub-btn:hover {
-    background-color: #e0e0e0;
-  }
 </style>
 
-
- <!-- Education Section -->
-  <div class="education">
-    <h1>Education - Western Sydney University</h1>
-    <ul>
-      <li><i class="fas fa-spinner"></i> PhD - Neuromorphic Engineering, 2022 - 2025</li>
-      <li><i class="fas fa-graduation-cap"></i> Master - Neuromorphic Engineering, 2019 - 2021</li>
-      <li><i class="fas fa-graduation-cap"></i> Bachelor (Honours) - Robotics and Mechatronics Engineering, 2015 - 2019</li>
-    </ul>
-  </div>
 
 
 <div class="container">
@@ -181,14 +159,16 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
   <div class="publications">
     <h2>Publications</h2>
     
+    <!-- 1st Publication -->
     <div class="publication-item">
-    <div class="pub-image">
-      <img src="static/images/thumbnail.png" alt="Thumbnail">
-    </div>
-    <div class="pub-details">
-      <h3>paper title1</h3>
-      <p>author1, author2, author3</p>
-      <p class="pub-venue">conference name</p>
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>Paper Title 1</h3>
+        <p>Author1, Author2, Author3</p>
+        <p class="pub-venue">Conference Name, Year</p>
+      </div>
       <div class="pub-buttons">
         <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
         <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
@@ -198,146 +178,14 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
     
     <!-- 2nd Publication -->
     <div class="publication-item">
-    <div class="pub-image">
-      <img src="static/images/thumbnail.png" alt="Thumbnail">
-    </div>
-    <div class="pub-details">
-      <h3>paper title1</h3>
-      <p>author1, author2, author3</p>
-      <p class="pub-venue">conference name</p>
-      <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
       </div>
-    </div>
-
-    <!-- 3nd Publication -->
-    <div class="publication-item">
-    <div class="pub-image">
-      <img src="static/images/thumbnail.png" alt="Thumbnail">
-    </div>
-    <div class="pub-details">
-      <h3>paper title1</h3>
-      <p>author1, author2, author3</p>
-      <p class="pub-venue">conference name</p>
-      <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+      <div class="pub-details">
+        <h3>Paper Title 2</h3>
+        <p>Author1, Author2, Author3</p>
+        <p class="pub-venue">Conference Name, Year</p>
       </div>
-    </div>
-
-    <!-- 4th Publication -->
-    <div class="publication-item">
-    <div class="pub-image">
-      <img src="static/images/thumbnail.png" alt="Thumbnail">
-    </div>
-    <div class="pub-details">
-      <h3>paper title1</h3>
-      <p>author1, author2, author3</p>
-      <p class="pub-venue">conference name</p>
-      <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
-      </div>
-    </div>
-
-    <!-- 5th Publication -->
-    <div class="publication-item">
-    <div class="pub-image">
-      <img src="static/images/thumbnail.png" alt="Thumbnail">
-    </div>
-    <div class="pub-details">
-      <h3>paper title1</h3>
-      <p>author1, author2, author3</p>
-      <p class="pub-venue">conference name</p>
-      <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
-      </div>
-    </div>
-
-
-    <!-- 6th Publication -->
-    <div class="publication-item">
-    <div class="pub-image">
-      <img src="static/images/thumbnail.png" alt="Thumbnail">
-    </div>
-    <div class="pub-details">
-      <h3>paper title1</h3>
-      <p>author1, author2, author3</p>
-      <p class="pub-venue">conference name</p>
-      <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
-      </div>
-    </div>
-
-
-    <!-- 7th Publication -->
-    <div class="publication-item">
-    <div class="pub-image">
-      <img src="static/images/thumbnail.png" alt="Thumbnail">
-    </div>
-    <div class="pub-details">
-      <h3>paper title1</h3>
-      <p>author1, author2, author3</p>
-      <p class="pub-venue">conference name</p>
-      <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
-      </div>
-    </div>
-
-
-    <!-- 8th Publication -->
-    <div class="publication-item">
-    <div class="pub-image">
-      <img src="static/images/thumbnail.png" alt="Thumbnail">
-    </div>
-    <div class="pub-details">
-      <h3>paper title1</h3>
-      <p>author1, author2, author3</p>
-      <p class="pub-venue">conference name</p>
-      <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
-      </div>
-    </div>
-
-
-    <!-- 9th Publication -->
-    <div class="publication-item">
-    <div class="pub-image">
-      <img src="static/images/thumbnail.png" alt="Thumbnail">
-    </div>
-    <div class="pub-details">
-      <h3>paper title1</h3>
-      <p>author1, author2, author3</p>
-      <p class="pub-venue">conference name</p>
-      <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
-      </div>
-    </div>
-
-
-    <!-- 10th Publication -->
-    <div class="publication-item">
-    <div class="pub-image">
-      <img src="static/images/thumbnail.png" alt="Thumbnail">
-    </div>
-    <div class="pub-details">
-      <h3>paper title1</h3>
-      <p>author1, author2, author3</p>
-      <p class="pub-venue">conference name</p>
       <div class="pub-buttons">
         <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
         <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
@@ -345,7 +193,70 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
       </div>
     </div>
     
+    <!-- 3rd Publication -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>Paper Title 3</h3>
+        <p>Author1, Author2, Author3</p>
+        <p class="pub-venue">Conference Name, Year</p>
+      </div>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+      </div>
+    </div>
+    
+    <!-- Repeat for additional publications -->
+    
+    <!-- 4th Publication -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>Paper Title 4</h3>
+        <p>Author1, Author2, Author3</p>
+        <p class="pub-venue">Conference Name, Year</p>
+      </div>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+      </div>
+    </div>
+    
+    <!-- 5th Publication -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>Paper Title 5</h3>
+        <p>Author1, Author2, Author3</p>
+        <p class="pub-venue">Conference Name, Year</p>
+      </div>
+      <div class="pub-buttons">
+        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
+        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+      </div>
+    </div>
+    
+    <!-- Add additional publication items as desired -->
+    
   </div>
 </div>
 
- 
+  <!-- Education Section -->
+  <div class="education">
+    <h1>Education - Western Sydney University</h1>
+    <ul>
+      <li><i class="fas fa-spinner"></i> PhD - Neuromorphic Engineering, 2022 - 2025</li>
+      <li><i class="fas fa-graduation-cap"></i> Master - Neuromorphic Engineering, 2019 - 2021</li>
+      <li><i class="fas fa-graduation-cap"></i> Bachelor (Honours) - Robotics and Mechatronics Engineering, 2015 - 2019</li>
+    </ul>
+  </div>

@@ -153,6 +153,17 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
 </style>
 
 
+  <!-- Education Section -->
+  <div class="education">
+    <h1>Education - Western Sydney University</h1>
+    <ul>
+      <li><i class="fas fa-spinner"></i> PhD - Neuromorphic Engineering, 2022 - 2025</li>
+      <li><i class="fas fa-graduation-cap"></i> Master - Neuromorphic Engineering, 2019 - 2021</li>
+      <li><i class="fas fa-graduation-cap"></i> Bachelor (Honours) - Robotics and Mechatronics Engineering, 2015 - 2019</li>
+    </ul>
+  </div>
+
+
 
 <div class="container">
   <!-- Publications Section -->
@@ -251,12 +262,3 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
   </div>
 </div>
 
-  <!-- Education Section -->
-  <div class="education">
-    <h1>Education - Western Sydney University</h1>
-    <ul>
-      <li><i class="fas fa-spinner"></i> PhD - Neuromorphic Engineering, 2022 - 2025</li>
-      <li><i class="fas fa-graduation-cap"></i> Master - Neuromorphic Engineering, 2019 - 2021</li>
-      <li><i class="fas fa-graduation-cap"></i> Bachelor (Honours) - Robotics and Mechatronics Engineering, 2015 - 2019</li>
-    </ul>
-  </div>

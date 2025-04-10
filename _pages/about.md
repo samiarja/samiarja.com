@@ -57,12 +57,12 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   }
   .pub-image {
-    flex: 0 0 200px;        /* Reduced width */
+    flex: 0 0 500px;        /* Reduced width */
     margin-right: 20px;
     text-align: center;      /* Ensure content is centered */
   }
   .pub-image img {
-    width: 200px;           /* Reduced width */
+    width: 500px;           /* Reduced width */
     height: auto;
     display: inline-block; /* Allows margin auto if needed */
     border-radius: 4px;

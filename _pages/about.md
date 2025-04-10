@@ -252,6 +252,74 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems, (ICN
         </div>
       </div>
     </div>
+
+    <!-- 7th Publication -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>paper title1</h3>
+        <p>author1, author2, author3</p>
+        <p class="pub-venue">conference name</p>
+        <div class="pub-buttons">
+          <button>Paper</button>
+          <button>Code</button>
+          <button>Project Page</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 8th Publication -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>paper title1</h3>
+        <p>author1, author2, author3</p>
+        <p class="pub-venue">conference name</p>
+        <div class="pub-buttons">
+          <button>Paper</button>
+          <button>Code</button>
+          <button>Project Page</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 9th Publication -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>paper title1</h3>
+        <p>author1, author2, author3</p>
+        <p class="pub-venue">conference name</p>
+        <div class="pub-buttons">
+          <button>Paper</button>
+          <button>Code</button>
+          <button>Project Page</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 10th Publication -->
+    <div class="publication-item">
+      <div class="pub-image">
+        <img src="static/images/thumbnail.png" alt="Thumbnail">
+      </div>
+      <div class="pub-details">
+        <h3>paper title1</h3>
+        <p>author1, author2, author3</p>
+        <p class="pub-venue">conference name</p>
+        <div class="pub-buttons">
+          <button>Paper</button>
+          <button>Code</button>
+          <button>Project Page</button>
+        </div>
+      </div>
+    </div>
     
   </div>
 </div>

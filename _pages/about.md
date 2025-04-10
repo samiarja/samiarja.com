@@ -295,14 +295,12 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
         <img src="static/images/thumbnail.png" alt="Thumbnail">
       </div>
       <div class="pub-details">
-        <h3>Paper Title 7</h3>
-        <p>Author1, Author2, Author3</p>
-        <p class="pub-venue">Conference Name, Year</p>
+        <h3>Neuromorphic engineering needs closed-loop benchmarks</h3>
+        <p>Moritz B Milde, Saeed Afshar, Ying Xu, Alexandre Marcireau, Damien Joubert, Bharath Ramesh, Yeshwanth Bethi, Nicholas O Ralph, Sami El Arja, Nik Dennler, André van Schaik, Gregory Cohen</p>
+        <p class="pub-venue">Frontiers Neuroscience, 2022</p>
       </div>
       <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+        <a class="pub-btn" href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.813555/full" target="_blank">Paper</a>
       </div>
     </div>
 
@@ -312,14 +310,12 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
         <img src="static/images/thumbnail.png" alt="Thumbnail">
       </div>
       <div class="pub-details">
-        <h3>Paper Title 8</h3>
-        <p>Author1, Author2, Author3</p>
-        <p class="pub-venue">Conference Name, Year</p>
+        <h3>Neuromorphic Perception for Greenhouse Technology Using Event-based Sensors</h3>
+        <p>Sami El Arja</p>
+        <p class="pub-venue">Master Thesis, 2021</p>
       </div>
       <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+        <a class="pub-btn" href="https://core.ac.uk/download/pdf/544084456.pdf" target="_blank">Paper</a>
       </div>
     </div>
 

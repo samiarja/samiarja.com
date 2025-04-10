@@ -275,7 +275,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
     <!-- Publication Item 6 -->
     <div class="publication-item">
       <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
+        <img src="images/paper5_thumbnail.png" alt="Thumbnail">
       </div>
       <div class="pub-details">
         <h3>Density invariant contrast maximization for neuromorphic Earth observations</h3>
@@ -292,7 +292,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
     <!-- Publication Item 7 -->
     <div class="publication-item">
       <div class="pub-image">
-        <img src="/images/paper4_thumbnail.png" alt="Thumbnail">
+        <img src="images/paper4_thumbnail.png" alt="Thumbnail">
       </div>
       <div class="pub-details">
         <h3>Neuromorphic engineering needs closed-loop benchmarks</h3>

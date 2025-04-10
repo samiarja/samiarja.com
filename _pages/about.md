@@ -258,17 +258,17 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
     <!-- Publication Item 5 -->
     <div class="publication-item">
       <div class="pub-image">
-        <img src="static/images/thumbnail.png" alt="Thumbnail">
+        <img src="images/paper6_thumbnail.png" alt="Thumbnail">
       </div>
       <div class="pub-details">
-        <h3>Paper Title 5</h3>
-        <p>Author1, Author2, Author3</p>
-        <p class="pub-venue">Conference Name, Year</p>
+        <h3>Motion Segmentation for Neuromorphic Aerial Surveillance</h3>
+        <p>Sami Arja, Alexandre Marcireau, Saeed Afshar, Bharath Ramesh, Gregory Cohen</p>
+        <p class="pub-venue">arXiv, 2024</p>
       </div>
       <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
-        <a class="pub-btn" href="https://link-to-code.com" target="_blank">Code</a>
-        <a class="pub-btn" href="https://link-to-project.com" target="_blank">Project Page</a>
+        <a class="pub-btn" href="https://arxiv.org/pdf/2405.15209" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://github.com/samiarja/ev_deep_motion_segmentation" target="_blank">Code</a>
+        <a class="pub-btn" href="https://samiarja.github.io/evairborne/" target="_blank">Project Page</a>
       </div>
     </div>
 
@@ -280,7 +280,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       <div class="pub-details">
         <h3>Density invariant contrast maximization for neuromorphic Earth observations</h3>
         <p>Sami Arja, Alexandre Marcireau, Richard L Balthazor, Matthew G McHarg, Saeed Afshar, Gregory Cohen</p>
-        <p class="pub-venue">Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023</p>
+        <p class="pub-venue">Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023 (Event-based Workshop)</p>
       </div>
       <div class="pub-buttons">
         <a class="pub-btn" href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Arja_Density_Invariant_Contrast_Maximization_for_Neuromorphic_Earth_Observations_CVPRW_2023_paper.pdf" target="_blank">Paper</a>

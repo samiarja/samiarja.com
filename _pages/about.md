@@ -211,7 +211,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
       <div class="pub-details">
         <h3>Performance metrics for neuromorphic imaging</h3>
         <p>Nimrod Kruger, <strong>Sami Arja</strong>, Evie Andrew, Travis Monk, André van Schaik</p>
-        <p class="pub-venue">Quantum Sensing and Nano Electronics and Photonics XXI</p>
+        <p class="pub-venue">Quantum Sensing and Nano Electronics and Photonics XXI, 2025</p>
       </div>
       <div class="pub-buttons">
         <a class="pub-btn" href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13376/133760D/Performance-metrics-for-neuromorphic-imaging/10.1117/12.3041873.short" target="_blank">Paper</a>

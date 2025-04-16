@@ -197,7 +197,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
         <p class="pub-venue">Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025 (Event-based Workshop)</p>
       </div>
       <div class="pub-buttons">
-        <a class="pub-btn" href="https://link-to-paper.com" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://arxiv.org/pdf/2504.10984" target="_blank">Paper</a>
         <a class="pub-btn" href="https://github.com/samiarja/OctoEye" target="_blank">Code</a>
         <a class="pub-btn" href="https://samiarja.github.io/neuromorphic_octopus_eye/" target="_blank">Project Page</a>
       </div>

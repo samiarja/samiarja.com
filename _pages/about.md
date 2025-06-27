@@ -314,7 +314,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
         <p class="pub-venue">Master Thesis, 2021</p>
       </div>
       <div class="pub-buttons">
-        <a class="pub-btn" href="https://core.ac.uk/download/pdf/544084456.pdf" target="_blank">Paper</a>
+        <a class="pub-btn" href="https://core.ac.uk/download/pdf/544084456.pdf" target="_blank">Master Thesis</a>
       </div>
     </div>
 

@@ -201,6 +201,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
         <a class="pub-btn" href="https://arxiv.org/pdf/2504.10984" target="_blank">Paper</a>
         <a class="pub-btn" href="https://github.com/samiarja/OctoEye" target="_blank">Code</a>
         <a class="pub-btn" href="https://samiarja.github.io/neuromorphic_octopus_eye/" target="_blank">Project Page</a>
+        <a class="pub-btn" href="https://github.com/samiarja/OctoEye/blob/master/figures/CVPR25_Neuromorphic_Cephalopod_Eye.pdf" target="_blank">Poster</a>
       </div>
     </div>
     
@@ -265,6 +266,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
         <a class="pub-btn" href="https://arxiv.org/pdf/2405.15209" target="_blank">Paper</a>
         <a class="pub-btn" href="https://github.com/samiarja/ev_deep_motion_segmentation" target="_blank">Code</a>
         <a class="pub-btn" href="https://samiarja.github.io/evairborne/" target="_blank">Project Page</a>
+        <a class="pub-btn" href="https://github.com/samiarja/ev_deep_motion_segmentation/blob/main/figures/SamiArja_Poster_Neuromorphic_Aerial_Surveillance.pdf" target="_blank">Poster</a>
       </div>
     </div>
 
@@ -282,6 +284,7 @@ I am a PhD candidate at the [International Centre for Neuromorphic Systems (ICNS
         <a class="pub-btn" href="https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Arja_Density_Invariant_Contrast_Maximization_for_Neuromorphic_Earth_Observations_CVPRW_2023_paper.pdf" target="_blank">Paper</a>
         <a class="pub-btn" href="https://github.com/neuromorphicsystems/event_warping" target="_blank">Code</a>
         <a class="pub-btn" href="https://samiarja.github.io/earthobservation/" target="_blank">Project Page</a>
+        <a class="pub-btn" href="https://github.com/neuromorphicsystems/event_warping/blob/main/img/2023CVPRW_DICMaxNEO_poster.pdf" target="_blank">Poster</a>
       </div>
     </div>
 
